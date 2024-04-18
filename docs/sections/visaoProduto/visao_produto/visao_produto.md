@@ -26,7 +26,7 @@ Nosso produto | Oferecerá uma medição dinâmica e interativa da satisfação 
 
 Implementar um sistema de avaliação de satisfação do cliente na sorveteria, utilizando uma tecnologia de detecção de sorrisos, para entregar as circunstâncias, sendo elas básicas, mais comuns capazes de provocar um sorriso aos clientes. O objetivo é utilizar essas informações para direcionar mais esforços em produtos, serviços e iniciativas que vão amplificar esses momentos de felicidade, melhorando assim a experiência do cliente.
 
-## 1.4 Objetivos Segundários
+## 1.4 Objetivos Secundários
 
 **Analisar Picos de Felicidade:** Identificar os momentos exatos e os fatores que mais contribuem para a satisfação do cliente;
 **Aprimorar a Experiência do Cliente:** Utilizar as informações obtidas através da análise de dados para, visando potencializar a felicidade durante a experiência na sorveteria;

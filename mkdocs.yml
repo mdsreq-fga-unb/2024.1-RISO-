@@ -12,7 +12,6 @@ theme:
 extra_css:
   - stylesheets/styles.css
 
-
 nav:
   - Início: index.md
   - Sobre a Facção:
@@ -26,5 +25,4 @@ nav:
     - Histórico de Versão: sections/visaoProduto/historico_versao.md
   - Apresentações:
     - Missão 1 | Apresentação: sections/apresentacao/apresentacao1.md
-  - Seminario:
-    - Esw e Ciclos de Vida: sections/Seminario/esw.md
+    - Missão 1 | Video de Apresentação: sections/apresentacao/video.md
