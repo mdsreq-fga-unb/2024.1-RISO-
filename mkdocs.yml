@@ -11,4 +11,8 @@ nav:
   - Sobre a faccao:
     - Historia da faccao: Faccao/faccao.md
     - Integrantes: Faccao/integrantes.md
-  - Documentação: documentacao/visao-produto-projeto.md
+  - Visão do Produto e Projeto:
+    - Visão Geral do Produto: documentacao/visao_produto/visao_produto.md
+    - Visão Geral do Projeto: documentacao/visao_projeto/visao_projeto.md
+    - Processo de Desenvolvimento de Software: documentacao/processo_desenv/processo_desenv.md
+    - Lições Aprendidas: documentacao/licoes_aprendidas/licoes_aprendidas.md
