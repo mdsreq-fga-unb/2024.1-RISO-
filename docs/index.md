@@ -1,11 +1,7 @@
 # RISO - Reconhecimento Inteligente de Sorrissos
-O projeto RISO emerge como uma inovadora aplicação de inteligência artificial no contexto de entretenimento e serviço ao cliente. Desenvolvido como parte da disciplina de Requisitos de Software, este projeto visa explorar e expandir as fronteiras do uso de tecnologias de reconhecimento facial em ambientes comerciais, especificamente em uma sorveteria.
-
-O objetivo principal do RISO é contabilizar a quantidade de sorrisos dados pelos clientes ao desfrutarem de seus sorvetes, proporcionando uma métrica divertida e interativa de satisfação do cliente. Utilizando uma câmera estrategicamente posicionada e algoritmos de reconhecimento facial avançados, o sistema não apenas reconhece um sorriso, mas também captura a alegria espontânea, transformando-a em dados valiosos para análise de comportamento do consumidor.
-
-Este projeto não só serve como uma ferramenta para medir a felicidade dos clientes, mas também funciona como um estudo de caso para entender como a interação entre humanos e máquinas pode ser aprimorada em um contexto real e dinâmico. Através da implementação deste sistema, esperamos fornecer insights valiosos sobre as preferências dos consumidores e sobre como a atmosfera de um estabelecimento pode influenciar suas experiências.
-
-A adoção de tal tecnologia também abre caminho para futuras investigações e aplicações, incluindo a adaptação do sistema para diferentes contextos culturais e sociais, aumentando a versatilidade e a eficácia da inteligência artificial no serviço ao cliente. O RISO promete não apenas uma abordagem inovadora para a análise de dados, mas também uma experiência mais rica e envolvente para todos os envolvidos.
+<p style="text-indent: 90px; text-align: justify;">
+O projeto RISO é uma aplicação de inteligência artificial inovadora no setor de atendimento ao cliente, desenvolvida por estudantes de Requisitos de Software da UNB. Seu principal objetivo é contar quantos sorrisos os clientes dão enquanto saboreiam seus sorvetes numa sorveteria, usando isso como uma forma divertida e interativa de medir a satisfação. O sistema utiliza uma câmera e algoritmos avançados de reconhecimento facial para identificar e analisar os sorrisos, transformando essa expressão de alegria em dados úteis para entender o comportamento do consumidor. O RISO não só avalia a felicidade dos clientes, mas também serve como estudo de caso para melhorar a interação humano-máquina em situações reais. Além disso, prepara o terreno para futuras pesquisas e adaptações em diferentes contextos culturais, ampliando o uso da inteligência artificial no atendimento ao cliente.
+</p>
 
 ## Equipe do Projeto
 <center>
@@ -55,3 +51,7 @@ A adoção de tal tecnologia também abre caminho para futuras investigações e
     </div>
 </center>
 
+| Data | Versão | Descrição | Autor | Revisores |
+|---- | ------ | --------- | ----- | --------- |
+| 17/04/24 | 1.0 | Criação do documento | Joyce Dionizio | Daniel Rodrigues |
+| 18/04/24 | 1.1 | Ajustes na formatação e criação da introduação| Jésus Gabriel | Daniel Rodrigues |
