@@ -9,18 +9,18 @@ Cliente | Fornecer insumos para requisitos, fornecer feedbacks sobre os produtos
 Monitor | Verificar requisitos, fornecer feedbacks sobre o processo de ER, auxiliar em dúvidas da equipe acerca da disciplina de requisitos, articular os interesses do professor | João Pedro | Pedro Henrique
 
 ## 2.2	Planejamento das Fases do Projeto
-Ciclos | Produto (Entrega) | Data Início | Data Fim
+Sprints | Produto (Entrega) | Data Início | Data Fim
 ---- | ----------------- | ----------- | --------
-Ciclo 1 | Requisitos descobertos, elicitados, analisados e consensuados | 02/05/23 | 08/05/23
-Ciclo 2 | Requisitos validados, verificados e declarados | 09/05/23 | 15/05/23
-Ciclo 3 | Requisitos organizados e atualizados, escopo MVP1 e MVP2  | 16/05/23 | 25/05/23
-Ciclo 4 | Backlog definitivo MVP1 | 26/05/23 | 05/06/23
-Ciclo 5 | US01 e US05 | 06/06/23 | 12/06/23
-Ciclo 6 | US11 e US12 | 13/06/23 | 22/06/23
-Ciclo 7 | US8 e US09 | 23/06/23 | 26/06/23
-Ciclo 8 | Backlog definitivo MVP2 | 27/06/23 | 03/07/23
-Ciclo 9 | US15, US10, US04, US03 | 04/07/23 | 10/07/23
-Ciclo 10 | US06, US02, US07, US14| 11/07/23 | 18/07/23
+Sprin 1 | Requisitos descobertos, elicitados, analisados e consensuados | 29/04/24 | 05/05/24
+Spint 2 | Requisitos validados, verificados e declarados | 06/05/24 | 12/05/24
+Sprint 3 | Requisitos organizados e atualizados, escopo MVP1 e MVP2  | 13/05/24 | 19/05/24
+Sprint 4 | Backlog definitivo MVP1 | 20/05/24 | 26/05/24
+Sprint 5 | US01 e US05 | 27/05/23 | 12/06/23
+Sprint 6 | US11 e US12 | 03/06/23 | 09/06/23
+Sprint 7 | US8 e US09 | 10/06/23 | 16/06/23
+Sprint 8 | Backlog definitivo MVP2 | 17/06/23 | 23/06/23
+Sprint 9 | US15, US10, US04, US03 | 24/06/23 | 30/06/23
+Sprint 10 | US06, US02, US07, US14| 01/07/23 | 07/07/23
 
 ## 2.3	Matriz de Comunicação
 Descrição | Área/Envolvidos | Periodicidade | Produtos Gerados
