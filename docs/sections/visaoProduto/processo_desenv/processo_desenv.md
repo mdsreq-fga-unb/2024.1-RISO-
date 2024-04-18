@@ -1,4 +1,4 @@
-# 3. PROCESSO DE DESENVOLVIMENTO DE SOFTWARE
+# 3. Processo de Desenvolvimento de Software
 
 ## 3.1 Metodologia
 
@@ -13,7 +13,7 @@ Baseado na proposta de Gupta (2019), foi respondido um conjunto de questões dis
 
 <center>
 
-![Gupta](../../assets/gupta1.png)
+![Gupta](../../../assets/gupta1.png)
 
 Figura 1 - Modelo Gupta para requisitos (fonte: Gupta, 2019)
 
@@ -24,14 +24,14 @@ Pergunta | Nosso contexto
 Os requisitos são fáceis de entender e definir? | Não
 Nós mudamos os requisitos com bastante frequência? | Sim
 Nós podemos definir os requisitos ao início de cada ciclo? | Não
-Os requisitos estão indicando um sistema complexo para se construir? | Sim.
+Os requisitos estão indicando um sistema complexo para se construir? | Sim
 
 Conclusão: Em termos de requisitos, destaca-se o modelo espiral, OpenUp, Safe e ScrumXP.
 
 ### 3.1.2 Equipe de Desenvolvimento
 <center>
 
-![Gupta](../../assets/gupta2.png)
+![Gupta](../../../assets/gupta2.png)
 
 Figura 2 - Modelo Gupta para equipe de desenvolvimento (fonte: Gupta, 2019)
 
@@ -39,10 +39,10 @@ Figura 2 - Modelo Gupta para equipe de desenvolvimento (fonte: Gupta, 2019)
 
 Pergunta | Nosso contexto
 -------- | --------------
-Pouca experiência em projetos similares? | Sim.
-Pouco conhecimento de domínio (novato na tecnologia)? | Sim.
-Pouca experiência com as ferramentas que serão usadas? | Sim.
-Disponibilidade para treinamento, se necessário | Não.
+Pouca experiência em projetos similares? | Sim
+Pouco conhecimento de domínio (novato na tecnologia)? | Sim
+Pouca experiência com as ferramentas que serão usadas? | Sim
+Disponibilidade para treinamento, se necessário | Não
 
 Conclusão: Em termos de equipe de desenvolvimento, destaca-se o modelo espiral.
 
@@ -50,7 +50,7 @@ Conclusão: Em termos de equipe de desenvolvimento, destaca-se o modelo espiral.
 
 <center>
 
-![Gupta](../../assets/gupta3.png)
+![Gupta](../../../assets/gupta3.png)
 
 Figura 3 - Modelo Gupta para usuários (fonte: Gupta, 2019)
 
@@ -69,7 +69,7 @@ Conclusão: Em termos de usuário, destaca-se o modelo RAD.
 
 <center>
 
-![Gupta](../../assets/gupta4.png)
+![Gupta](../../../assets/gupta4.png)
 
 Figura 4 - Modelo Gupta para tipo de projeto e risco associado (fonte: Gupta, 2019)
 
@@ -77,12 +77,12 @@ Figura 4 - Modelo Gupta para tipo de projeto e risco associado (fonte: Gupta, 20
 
 Pergunta | Nosso contexto
 -------- | --------------
-O projeto é melhoria de um sistema existente? | Não.
-O financiamento está estável para o projeto? | Sim.
-Requisitos de alta confiabilidade? | Não.
-Cronograma do projeto é apertado? | Sim.
-Uso de componentes reutilizáveis? | Sim.
-Os recursos (Tempo, dinheiro, pessoas etc) estão escassos? | Não.   
+O projeto é melhoria de um sistema existente? | Não
+O financiamento está estável para o projeto? | Sim
+Requisitos de alta confiabilidade? | Não
+Cronograma do projeto é apertado? | Sim
+Uso de componentes reutilizáveis? | Sim
+Os recursos (Tempo, dinheiro, pessoas etc) estão escassos? | Não
 
 Conclusão: Em termos de Tipo de Projeto e Risco Associado, destaca-se o RAD.
 
@@ -90,13 +90,13 @@ Conclusão: Em termos de Tipo de Projeto e Risco Associado, destaca-se o RAD.
 
 <center>
 
-![RAD](../../assets/xp.png)
+![RAD](../../../assets/xp.png)
 
 Figura 5 - Ciclo XP
 
 </center>
 
-Considerando o foco principal no nosso usuário, a pouca experiência dos membros da equipe e o risco associado, além do cronograma da disciplina, entendemos que devemos utilizar uma abordagem híbrida, com uma abordagem dirigida a plano, com o método ScrumXP, na fase de requisitos e com as fases seguintes, utilizando o método ágil de desenvolvimento XP (Extremme Programming).
+Utilizando como base os resultados do framework Gupta, cujo considera baixo conhecimento da equipe, alta participação do cliente no projeto e riscos associados ao projeto, a equipe utilizará seguirá uma abordagem dirigida à plano, utilizando o método ágil XP (Extremme Programming).
 
 ## 3.2 Ferramentas
 
@@ -109,23 +109,13 @@ Para a execução dessa metodologia, escolheu-se as seguintes Ferramentas de org
 - **Desenvolvimento de ideias e *frameworks* da disciplina**: Miro
 - **Prototipação**: Figma
 
-| Ferramenta | Finalidade |
-| :-: | :-: | 
-| ![Github](./assets/logo_github.png){width="25%"} |  Versionamento e Gerenciamento de tarefas |
-| ![Google Meet](./assets/logo-microsoft-teams.png){width="25%"} | Comunicação |
-| ![Discord](./assets/logo-microsoft-teams.png){width="25%"} | Comunicação |
-| ![WhatsApp](./assets/whats_app.png){width="25%"} | Comunicação |
-| ![Visual Studio Code](./assets/vscode.png){width="20%"} | Interface de Desenvolvimento |
-| ![Miro](./assets/mural.png){width="25%"} | Desenvolvimento de ideias e *frameworks* da disciplina |
-| ![Figma](./assets/figmaLogo.png){width="25%"} | Prototipação |
-
 ## 3.3 Processos e Procedimentos
 
 ### 3.3.1 Escolhas do Processo de Engenharia de Requisitos
 
 <center>
 
-![ER](../../assets/facetas_engenharia.png)
+![ER](../../../assets/facetas_engenharia.png)
 
 Figura 8 - Faceta da engenharia de requisitos (fonte: MARSICANO, 2023)
 
@@ -141,118 +131,34 @@ Com base nas Facetas do Processo de ER (IREB, 2022), foi definido que é um proc
 
 <center>
 
-![ER](assets/er_atividades_marsicano.png)
+![ER](../../../assets/ERprocess.png)
 
 Figura 9 - Atividades da ER (fonte: MARSICANO, 2023).
 
 </center>
 
-Assim, incluímos as atividades de ER (MARSICANO, 2023) dentro dos procedimentos do processo de desenvolvimento de software RAD, pontuado no tópico 3.
+Para isso, a equipe irá incluir o processo ER na metodologia de desenvolvimento XP da seguinte maneira:
 
-### 3.3.3 ATIVIDADES RAD
+Atividade | Método | Ferramenta | Entrega
+--------- | ------ | ---------- | -------
+Elicitação e Descoberta | Entrevista com o Cliente e Brainstorming | Google Meet, Lean Inception | Documento de Requisitos Funcionais e Não Funcionais
+Análise e Consenso | Brainstorming SWOT | Jira | História de Usuários
+Declaração | Critétios de Aceitação | GitHub | Épicos, Tasks, Prazos, MVP
+Representação | Figma | GitHub | Protótipo de Alta Fidelidade
+Implementação | Pair Programming | VsCode, Git | Código Fonte
+Verificação e Validação | Teste de Aceitação, Teste de Software | GitHub, JUnit, PyTest | Relatório de Testes e Validações
+Organização e Atualização | Plano de Iteraçãol com mudanças do cliente, Integração CI/CD | GitHub | Pipeline CI/CD
+Usabilidade | Análise Heurística | Dashboard | Relatórios de Usabilidade
 
-A metodologia *Rapid Application Development*, também chamado de RAD é um processo incremental na qual desenvolvemos as atividades descritas na figura 10. A metodologia envolve desenvolver módulos que apresentam as fases de análise, design, codificação e testagem. Esses módulos são desenvolvidos por equipes específicas, de forma paralela, e isso é desenvolvido a partir dos requisitos que foram elicitados e modularizados na Ciclo. Assim, várias técnicas e ferramentas de desenvolvimento são utilizadas para o desenvolvimento desses módulos. A ideia é que ao integrar esses módulos, o produto final é testado e entregado.
 
-Nosso grupo optou por utilizar um método híbrido que envolve o uso de cascata nos requisitos iniciais que elicitamos, enquanto que nas fases posteriores utilizaremos de abordagens ágeis e o processo do RAD como um todo. Com isso, vamos separar nossos 5 membros em dois times que vão estar trabalhando paralelamente em módulos diferentes.
+
+### 3.3.3 Estrutura Analítica do Projeto
 
 <center>
 
-![RAD](assets/RAD-model.png)
-
-Figura 10 - Modelo de trabalho do RAD (fonte: *Software Engineering | Rapid application development model*, 2023)
+![ER](../../../assets/eap.jpeg)
+Figura 10 - Estrutura Analítica do Projeto
 
 </center>
 
-#### 3.3.3.1	REQUISITOS E PLANEJAMENTO
-
-##### 3.3.3.1.1 DESCOBERTA E ELICITAÇÃO DE REQUISITOS
-
-Fase focada em encontrar, extrair, obter ou provocar uma resposta, reação, informação dos usuários para construção dos requisitos (MARSICANO, 2023).
-
-Identificador | Atividade | Método | Ferramenta | Entrega
-------------- | --------- | ------ | ---------- | -------
-ELI-01 | Elicitação e Descoberta | Diagrama de causa e 5 porquês | Mural | Backlog de requisitos não validado
-
-##### 3.3.3.1.2 ANALISE E CONSENSO DE REQUISITOS
-
-Fase focada em analisar os requisitos brutos e conciliar os interesses dos _stakeholders_ (MARSICANO, 2023).
-
-Identificador | Atividade | Método | Ferramenta | Entrega
-------------- | --------- | ------ | ---------- | -------
-AA-01 | Análise e Consenso | Análise de Viabilidade | Teams | Backlog de requisitos validados
-
-##### 3.3.3.1.3 DECLARAÇÃO DE REQUISITOS
-
-Fase focada em comunicar os requisitos para os interessados em diferentes níveis de glanularidade e dividindo entre funcionais e não funcionais (MARSICANO, 2023).
-
-Identificador | Atividade | Método | Ferramenta | Entrega
-------------- | --------- | ------ | ---------- | -------
-DEC-01 | Declaração | Temas, Epicos e User Stories | Mural | User Stories representadas
-
-##### 3.3.3.1.4 VERIFICAÇÃO E VALIDAÇÃO DE REQUISITOS
-
-Fase focada em manter os requisitos do produto estruturados, organizados e atualizados (MARSICANO, 2023).
-
-Identificador | Atividade | Método | Ferramenta | Entrega
-------------- | --------- | ------ | ---------- | -------
-GEREN-01 | Verificação e Validação | Feedback | Reunião | User Stories validadas
-
-##### 3.3.3.1.5 GERENCIAMENTO DE REQUISITOS (ORGANIZAÇÃO E ATUALIZAÇÃO)
-
-Fase focada em manter os requisitos do produto estruturados, organizados e atualizados (MARSICANO, 2023).
-
-Identificador | Atividade | Método | Ferramenta | Entrega
-------------- | --------- | ------ | ---------- | -------
-GEREN-01 | Organização e Atualização | MoSCoW | Mural e Excel | Definição de prioridades (MVP1 e MVP2)
-
-#### 3.3.3.2 PROTOTIPAÇÃO E FEEDBACK
-
-##### 3.3.3.2.1 REPRESENTAÇÃO DE REQUISITOS (PROTÓTIPO)
-
-Apresentação dos requisitos em modelos e/ou visualizações do produto (MARSICANO, 2023).
-
-Identificador | Atividade | Método | Ferramenta | Entrega
-------------- | --------- | ------ | ---------- | -------
-PRO-01 | Construção de prototipo de Baixa Fidelidade | Prototipagem | Figma | Prototipo de baixa fidelidade
-PRO-02 | Construção de prototipo de Média Fidelidade | Prototipagem | Figma | Prototipo de média fidelidade
-PRO-03 | Construção de prototipo de Alta Fidelidade | Prototipagem | Figma | Prototipo de alta fidelidade
-
-##### 3.3.3.2.2    VALIDAÇÃO E VERIFICAÇÃO DE REQUISITOS (PROTÓTIPO)
-
-Validação é confirmar ou não se os requisitos definem a solução correta conforme consensuado entre os _stakeholders_ (MARSICANO, 2023). Enquanto verificação é garantir se os requisitos foram ou não executados na maneira correta (MARSICANO, 2023). Além disso, definir o preparado (DoR) e o pronto (DoD) também faz parte dessa fase.
-
-Identificador | Atividade | Método | Ferramenta | Entrega
-------------- | --------- | ------ | ---------- | -------
-VAP-01 | Coleta de Feedbacks sobre os protótipos | Feedback | Teams e Figma | Relação de feedbacks
-
-#### 3.3.3.3 CONSTRUÇÃO
-
-##### 3.3.3.3.1 CONSTRUÇÃO MÓDULOS
-
-Identificador | Atividade | Método | Ferramenta | Entrega
-------------- | --------- | ------ | ---------- | -------
-CM-01 | Desenvolvimento da Aplicação | PairProgramming | VSCODE, GitHub, Navegador | Módulo Unitário
-
-##### 3.3.3.3.1 VALIDAÇÃO MÓDULOS
-
-Identificador | Atividade | Método | Ferramenta | Entrega
-------------- | --------- | ------ | ---------- | -------
-VAM-01 | Atividade de Validação dos Módulos | Feedback | Teams e Navegador | Relação de Feedbacks
-
-#### 3.3.3.4 CUTOVER
-
-##### 3.3.3.4.1 INTEGRAÇÃO MÓDULOS
-
-Identificador | Atividade | Método | Ferramenta | Entrega
-------------- | --------- | ------ | ---------- | -------
-IT-01 | Integração de Módulos | União de Módulos | GitHub, VSCODE e Navegador | MVP
-
-##### 3.3.3.4.2 TESTE PRODUTO
-
-Identificador | Atividade | Método | Ferramenta | Entrega
-------------- | --------- | ------ | ---------- | -------
-TP-01 | Testagem do Produto | Teste Manual, Teste de Módulo, Teste de Integração, Teste de Sistema, Teste de Aceitação | VSCODE, GitHub | Relatório de Testes
-
-## 3.4 Arquitetura do Projeto
-
-![Arquitetura](assets/arquitetura.jpg)
+#

@@ -1,4 +1,4 @@
-# 2.	VISÃO GERAL DO PROJETO
+# 2.	Visão Geral do Projeto
 ## 2.1	Organização do Projeto
 Papel | Atribuições | Responsável | Participantes
 ----- | ----------- | ----------- | -------------
