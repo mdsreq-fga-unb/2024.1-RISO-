@@ -2,11 +2,11 @@
 ## 2.1	Organização do Projeto
 Papel | Atribuições | Responsável | Participantes
 ----- | ----------- | ----------- | -------------
-Pessoa Desenvolvedora | Codificar o produto, realizar refatoração, testar, configurar, versionar, evoluir, integrar, documentar, ata das reuniões, estratégia de código | Leonardo | João, Juan, Pedro Henrique, Pedro Lucas
-Líder do Time | Delegar tarefas, duração da Ciclo, organização das atividades, one-to-one com os membros, estratégia de produto | Juan | Leonardo
-Pessoa Engenheira de Requisitos | Descobrir, elicitar, analisar, consensuar, declarar, representar, organizar e atualizar requisitos | Pedro Lucas | João, Leonardo, Pedro Henrique, Juan
-Cliente | Fornecer insumos para requisitos, fornecer feedbacks sobre os produtos, priorizar requisitos | Pedro Henrique | Victor Eduardo Araújo Ribeiro
-Monitor | Verificar requisitos, fornecer feedbacks sobre o processo de ER, auxiliar em dúvidas da equipe acerca da disciplina de requisitos, articular os interesses do professor | Juan | Victor Cabral
+Pessoa Desenvolvedora | Codificar o produto, realizar refatoração, testar, configurar, versionar, evoluir, integrar, documentar, ata das reuniões, estratégia de código | Lucas | Jesus Gabriel,Daniel Rodriguel, João Pedro, Marco Tulio, Joyce
+Líder do Time | Delegar tarefas, duração da Ciclo, organização das atividades, one-to-one com os membros, estratégia de produto | Daniel | Lucas
+Pessoa Engenheira de Requisitos | Descobrir, elicitar, analisar, consensuar, declarar, representar, organizar e atualizar requisitos | Marco Tulio | Lucas,Daniel,Joyce
+Cliente | Fornecer insumos para requisitos, fornecer feedbacks sobre os produtos, priorizar requisitos | Joyce | Arthur
+Monitor | Verificar requisitos, fornecer feedbacks sobre o processo de ER, auxiliar em dúvidas da equipe acerca da disciplina de requisitos, articular os interesses do professor | João Pedro | Pedro Henrique
 
 ## 2.2	Planejamento das Fases do Projeto
 Ciclos | Produto (Entrega) | Data Início | Data Fim
@@ -25,7 +25,7 @@ Ciclo 10 | US06, US02, US07, US14| 11/07/23 | 18/07/23
 ## 2.3	Matriz de Comunicação
 Descrição | Área/Envolvidos | Periodicidade | Produtos Gerados
 --------- | ----------------- | ----------- | ----------------
-Acompanhamento Diário | Equipe do Projeto | Diário | Relato por parte dos membros da equipe no WhatsApp sobre o andamento individual das partes do projeto
+Acompanhamento das atividades em progresso | Equipe do Projeto | semanal | Relatorio de situação do projeto
 Acompanhamento de Ciclo | Equipe do Projeto e Monitor | Semanal | Ata da Reunião, Relação de Feedbacks sobre as entregas do produto
 Comunicar a situação do projeto | Equipe do Projeto e Professor | Mensalmente | Artefatos solicitados, Relação de Feedbacks do Professor
 
@@ -53,14 +53,7 @@ Figura 2 - Avaliação de impacto (fonte: autores, 2023)
 
 </center>
 
-### 2.4.1 Histórico de Riscos
 
-Ciclo | Risco Encontrado | Categoria | Ação tomada
------- | ---------------- | ----- | ----
-Ciclo 2 | Risco de Projeto | Crítico 2 | Planejamento de troca de Processos de Desenvolvimento e ER.
-Ciclo 3 | Risco Técnicos | Crítico 2 | Conversa e feedbacks com a equipe, Alinhamento com o Cliente
-Ciclo 4 | Risco de Projeto | Crítico 2 | Planejamento de novo cronograma, Alinhamento com o Cliente
-Ciclo 6 | Risco Técnicos | Crítico 2 | Conversa e feedbacks com a equipe, Alinhamento com o Cliente
 
 ## 2.5	Critérios de Replanejamento
 Os critérios de replanejamento referem-se à identificação dos pontos que, caso ocorram, causarão um replanejamento do projeto. Precisam ser acompanhados a cada Ciclo, referindo-se assim, ao projeto como um todo e não apenas ao produto.
@@ -75,10 +68,4 @@ Os critérios de replanejamento referem-se à identificação dos pontos que, ca
 
 Os critérios de replanejamento do projeto devem ser acompanhados e atualizados a cada fase. E, aplicados, conforme necessidade.
 
-### 2.5.1 Histórico de Replanejamento
-Ciclo | Problema | Solução Encontrada | Resultado Esperado
------- | -------- |------------------ | ------------------
-Ciclo 3 | Atrasos de mais de 2 semanas  | Alterar cronograma do projeto | Adequação aos prazos solicitados
-Ciclo 3 | Alteração no Processo de Engenharia de Requisito ou Desenvolvimento de Software | Alterar cronograma do projeto e entregas | Adequação aos prazos solicitados
-Ciclo 4 | Atrasos de mais de 2 semanas | Alterar entregas das fases | Adequação aos prazos solicitados
-Ciclo 7 | Alteração nos prazos das entregas da Disciplina| Alterar entregas das fases | Adequação aos prazos solicitados
+
