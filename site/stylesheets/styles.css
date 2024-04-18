@@ -1,5 +1,5 @@
 .md-header {
-    background-color: #05215a;
+    background-color: #a7182b;
 }
 
 .md-tabs {
@@ -23,7 +23,8 @@
 
 /* Customização das tabelas */
 .md-typeset table:not([class]) th {
-    background-color: #2c7c29;
+    background-color: #000000;
+    color: white;
 }
 
 tr:nth-child(odd) {
