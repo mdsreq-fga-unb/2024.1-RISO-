@@ -26,3 +26,5 @@ nav:
     - Histórico de Versão: sections/visaoProduto/historico_versao.md
   - Apresentações:
     - Missão 1 | Apresentação: sections/apresentacao/apresentacao1.md
+  - Seminario:
+    - Esw: Seminario/esw.md
