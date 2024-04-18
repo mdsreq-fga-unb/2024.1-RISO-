@@ -14,6 +14,7 @@ Ao longo dos anos, essa aliança inicial de guerreiros solitários se transformo
 
 Quando o Comando Estelar surgiu, buscando aliados para combater a exploração desenfreada das corporações, os mercenários viram uma oportunidade. Aliando-se ao Comando Estelar, eles encontraram um novo tipo de missão, uma que oferecia não apenas recompensas materiais, mas também a chance de se envolver em confrontos que decidiriam o futuro da galáxia. Embora seu objetivo principal continuasse sendo a busca por glória e riqueza, essa nova aliança ofereceu aos mercenários um palco grandioso para suas habilidades e ambições.
 
+# Histórico de Versão: 
 | Data | Versão | Descrição | Autor | Revisores |
 |---- | ------ | --------- | ----- | --------- |
 | 17/04/24 | 1.0 | Criação do documento | Marco Tulio | Daniel Rodrigues |

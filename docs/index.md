@@ -6,6 +6,7 @@ O objetivo principal do RISO é contabilizar a quantidade de sorrisos dados pelo
 Este projeto não só serve como uma ferramenta para medir a felicidade dos clientes, mas também funciona como um estudo de caso para entender como a interação entre humanos e máquinas pode ser aprimorada em um contexto real e dinâmico. Através da implementação deste sistema, esperamos fornecer insights valiosos sobre as preferências dos consumidores e sobre como a atmosfera de um estabelecimento pode influenciar suas experiências.
 
 A adoção de tal tecnologia também abre caminho para futuras investigações e aplicações, incluindo a adaptação do sistema para diferentes contextos culturais e sociais, aumentando a versatilidade e a eficácia da inteligência artificial no serviço ao cliente. O RISO promete não apenas uma abordagem inovadora para a análise de dados, mas também uma experiência mais rica e envolvente para todos os envolvidos.
+
 ## Equipe do Projeto
 <center>
     <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">

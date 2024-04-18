@@ -19,8 +19,10 @@ nav:
     - Historia da Facção: sections/faccao/faccao.md
     - Integrantes: sections/faccao/integrantes.md
   - Visão do Produto e Projeto:
-    - Visão Geral do Produto: documentacao/visao_produto/visao_produto.md
-    - Visão Geral do Projeto: documentacao/visao_projeto/visao_projeto.md
-    - Processo de Desenvolvimento de Software: documentacao/processo_desenv/processo_desenv.md
-    - Referência Bibliográfica: documentacao/referencia_bibliografica.md
-    - Histórico de Versão: documentacao/historico_versao.md
+    - Visão Geral do Produto: sections/visaoProduto/visao_produto/visao_produto.md
+    - Visão Geral do Projeto: sections/visaoProduto/visao_projeto/visao_projeto.md
+    - Processo de Desenvolvimento de Software: sections/visaoProduto/processo_desenv/processo_desenv.md
+    - Referência Bibliográfica: sections/visaoProduto/referencia_bibliografica.md
+    - Histórico de Versão: sections/visaoProduto/historico_versao.md
+  - Apresentações:
+    - Missão 1 | Apresentação: sections/apresentacao/apresentacao1.md

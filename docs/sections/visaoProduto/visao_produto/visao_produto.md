@@ -1,11 +1,9 @@
-# 1. VISÃO GERAL DO PRODUTO
+# 1. Visão Geral do Produto
 
 ## 1.1 Problema
 
 O problema identificado reside na dificuldade de medir de forma quantitativa o nível de satisfação dos clientes em uma sorveteria. Atualmente, o proprietário do estabelecimento não possui meios eficazes para capturar e analisar a felicidade dos consumidores, o que é fundamental para aprimorar a experiência no local. Para aprofundar o entendimento deste problema, foi empregado um diagrama de Ishikawa, auxiliado pela técnica dos 5 Porquês, visando descobrir as causas raízes e seus principais motivadores.
 <center>
-
-![Problema](assets/problema_ishikawa.png)
 
 Figura 1 - Diagrama de Ishikawa do grupo (fonte: autores, 2023)
 
@@ -27,9 +25,8 @@ O objetivo principal do RISO é oferecer aos proprietários e gerentes de sorvet
 
 ## 1.4 Tecnologias a Serem Utilizadas
 
-- Javascript
+- Python
 - HTML
 - CSS
-- React
 - Node.js
 - MySQL
