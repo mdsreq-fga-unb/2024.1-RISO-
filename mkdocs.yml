@@ -1,6 +1,7 @@
 site_name: RISo Docs
 theme:
   name: material
+  
 
 extra_css:
   - stylesheets/styles.css
