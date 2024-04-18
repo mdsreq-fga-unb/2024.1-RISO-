@@ -14,10 +14,10 @@ extra_css:
 
 
 nav:
-  - Sobre: index.md
+  - Início: index.md
   - Sobre a Facção:
-    - Historia da Facção: Faccao/faccao.md
-    - Integrantes: Faccao/integrantes.md
+    - Historia da Facção: sections/faccao/faccao.md
+    - Integrantes: sections/faccao/integrantes.md
   - Visão do Produto e Projeto:
     - Visão Geral do Produto: documentacao/visao_produto/visao_produto.md
     - Visão Geral do Projeto: documentacao/visao_projeto/visao_projeto.md

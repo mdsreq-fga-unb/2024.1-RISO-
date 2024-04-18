@@ -1,10 +1,6 @@
 # Estrela de Ares
 
-## Brasão da facção
-
-![Brasao da facção](brasao.jpg)
-
-## História
+![Brasao da facção](../../assets/brasao.jpg)
 
 ### Origem
 
@@ -17,3 +13,8 @@ Ao longo dos anos, essa aliança inicial de guerreiros solitários se transformo
 ### Aliança
 
 Quando o Comando Estelar surgiu, buscando aliados para combater a exploração desenfreada das corporações, os mercenários viram uma oportunidade. Aliando-se ao Comando Estelar, eles encontraram um novo tipo de missão, uma que oferecia não apenas recompensas materiais, mas também a chance de se envolver em confrontos que decidiriam o futuro da galáxia. Embora seu objetivo principal continuasse sendo a busca por glória e riqueza, essa nova aliança ofereceu aos mercenários um palco grandioso para suas habilidades e ambições.
+
+| Data | Versão | Descrição | Autor | Revisores |
+|---- | ------ | --------- | ----- | --------- |
+| 17/04/24 | 1.0 | Criação do documento | Marco Tulio | Daniel Rodrigues |
+| 18/04/24 | 1.1 | Ajustes na formatação | Daniel Rodrigues | Joyce Dionizio |
