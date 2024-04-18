@@ -1,11 +1,14 @@
 # 1. Visão Geral do Produto
 
-## 1.1 Problema
+## 1.1 Problema/Desejo
 
-O problema identificado reside na dificuldade de medir de forma quantitativa o nível de satisfação dos clientes em uma sorveteria. Atualmente, o proprietário do estabelecimento não possui meios eficazes para capturar e analisar a felicidade dos consumidores, o que é fundamental para aprimorar a experiência no local. Para aprofundar o entendimento deste problema, foi empregado um diagrama de Ishikawa, auxiliado pela técnica dos 5 Porquês, visando descobrir as causas raízes e seus principais motivadores.
+O problema identificado reside na dificuldade de medir de forma quantitativa o nível de satisfação dos clientes em uma sorveteria. Atualmente, o proprietário do estabelecimento não possui meios eficazes para capturar e analisar a felicidade dos consumidores, o que é fundamental para aprimorar a experiência no local. Para aprofundar o entendimento deste problema, foi empregado a técnica dos 5 Porquês, visando descobrir as causas raízes e seus principais motivadores.
 <center>
 
-Figura 1 - Diagrama de Ishikawa do grupo (fonte: autores, 2023)
+
+![ER](../../../assets/5_porques.png)
+
+Figura 1 - Técnica dos 5 porquês do grupo (fonte: autores, 2023)
 
 </center>
 
@@ -21,9 +24,16 @@ Nosso produto | Oferecerá uma medição dinâmica e interativa da satisfação 
 
 ## 1.3 Objetivos do Produto
 
-O objetivo principal do RISO é oferecer aos proprietários e gerentes de sorveterias uma ferramenta avançada e eficaz para medir a satisfação dos clientes de forma precisa e em tempo real. Isso será realizado através de um software inovador que utiliza tecnologia de visão computacional para detectar e analisar sorrisos durante o atendimento. Ao utilizar essas informações, o software ajudará a identificar momentos de alegria e satisfação dos clientes, permitindo que o estabelecimento aprimore a qualidade do serviço e produto oferecido.
+Implementar um sistema de avaliação de satisfação do cliente na sorveteria, utilizando uma tecnologia de detecção de sorrisos, para entregar as circunstâncias, sendo elas básicas, mais comuns capazes de provocar um sorriso aos clientes. O objetivo é utilizar essas informações para direcionar mais esforços em produtos, serviços e iniciativas que vão amplificar esses momentos de felicidade, melhorando assim a experiência do cliente.
 
-## 1.4 Tecnologias a Serem Utilizadas
+## 1.4 Objetivos Segundários
+
+**Analisar Picos de Felicidade:** Identificar os momentos exatos e os fatores que mais contribuem para a satisfação do cliente;
+**Aprimorar a Experiência do Cliente:** Utilizar as informações obtidas através da análise de dados para, visando potencializar a felicidade durante a experiência na sorveteria;
+**Capacitação da Equipe:** Treinar os funcionários para interpretar os dados do sistema de detecção de sorrisos e agir com base nas informações coletadas, visando melhorar a interação com os clientes e a eficiência no serviço.
+
+
+## 1.5 Tecnologias a Serem Utilizadas
 
 - Python
 - HTML

@@ -9,18 +9,18 @@ Cliente | Fornecer insumos para requisitos, fornecer feedbacks sobre os produtos
 Monitor | Verificar requisitos, fornecer feedbacks sobre o processo de ER, auxiliar em dúvidas da equipe acerca da disciplina de requisitos, articular os interesses do professor | João Pedro | Pedro Henrique
 
 ## 2.2	Planejamento das Fases do Projeto
-Sprints | Produto (Entrega) | Data Início | Data Fim
+Ciclo | Produto (Entrega) | Data Início | Data Fim
 ---- | ----------------- | ----------- | --------
-Sprin 1 | Requisitos descobertos, elicitados, analisados e consensuados | 29/04/24 | 05/05/24
-Spint 2 | Requisitos validados, verificados e declarados | 06/05/24 | 12/05/24
-Sprint 3 | Requisitos organizados e atualizados, escopo MVP1 e MVP2  | 13/05/24 | 19/05/24
-Sprint 4 | Backlog definitivo MVP1 | 20/05/24 | 26/05/24
-Sprint 5 | US01 e US05 | 27/05/23 | 12/06/23
-Sprint 6 | US11 e US12 | 03/06/23 | 09/06/23
-Sprint 7 | US8 e US09 | 10/06/23 | 16/06/23
-Sprint 8 | Backlog definitivo MVP2 | 17/06/23 | 23/06/23
-Sprint 9 | US15, US10, US04, US03 | 24/06/23 | 30/06/23
-Sprint 10 | US06, US02, US07, US14| 01/07/23 | 07/07/23
+Ciclo 1 | Requisitos descobertos, elicitados, analisados e consensuados | 22/04/24 | 29/04/24
+Ciclo 2 | Requisitos validados, verificados e declarados | 30/04/24 | 12/05/24
+Ciclo 3 | Requisitos organizados e atualizados, escopo definido do MVP e Funcionalidades Incrementais  | 13/05/24 | 19/05/24
+Ciclo 4 | Bateria de Funcionalidades | 20/05/24 | 26/05/24
+Ciclo 5 | Bateria de Funcionalidades | 27/05/23 | 12/06/23
+Ciclo 6 | Bateria de Funcionalidades | 03/06/23 | 09/06/23
+Ciclo 7 | Bateria de Funcionalidades | 10/06/23 | 16/06/23
+Ciclo 8 | Bateria de Funcionalidades | 17/06/23 | 23/06/23
+Ciclo 9 | Bateria de Funcionalidades | 24/06/23 | 30/06/23
+Ciclo 10 | Bateria de Funcionalidades | 01/07/23 | 07/07/23
 
 ## 2.3	Matriz de Comunicação
 Descrição | Área/Envolvidos | Periodicidade | Produtos Gerados
@@ -42,17 +42,6 @@ Segundo Charette, existem três tipos de riscos de Software (PRESSMAN,2006):
     3. Risco de Vendas: criar um produto que a equipe de vendas não sabe como vender;
     4. Risco Gerencial: perda de suporte da alta gerência devido à mudança no foco ou mudança de profissionais;
     5. Risco de Orçamento: perda do orçamento ou do comprometimento dos profissionais.
-
-Com isso, podemos avaliar o impacto causado pela consequência desses riscos, segundo a categoria e os componentes, como vemos na imagem abaixo.
-
-<center>
-
-![Riscos](assets/avaliacao_impacto.png)
-
-Figura 2 - Avaliação de impacto (fonte: autores, 2023)
-
-</center>
-
 
 
 ## 2.5	Critérios de Replanejamento
