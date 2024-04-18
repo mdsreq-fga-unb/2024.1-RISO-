@@ -42,7 +42,3 @@ Combinação de práticas ágeis e tradicionais para adaptar-se a diferentes tip
 ### Critérios de Decisão
 Discussão sobre como escolher o modelo adequado com base em fatores técnicos, humanos e organizacionais.
 
-## Conclusão
-Sumário das principais aprendizagens e a importância da adaptação dos processos à natureza específica de cada projeto de software.
-
-
