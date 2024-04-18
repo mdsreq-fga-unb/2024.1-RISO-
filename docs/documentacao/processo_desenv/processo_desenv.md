@@ -13,65 +13,65 @@ Baseado na proposta de Gupta (2019), foi respondido um conjunto de questões dis
 
 <center>
 
-![Gupta](assets/gupta_requisitos.png)
+![Gupta](../../assets/gupta1.png)
 
-Figura 3 - Modelo Gupta para requisitos (fonte: Gupta, 2019)
+Figura 1 - Modelo Gupta para requisitos (fonte: Gupta, 2019)
 
 </center>
 
 Pergunta | Nosso contexto
 -------- | --------------- 
-Os requisitos são fáceis de entender e definir? | Sim.
-Nós mudamos os requisitos com bastante frequência? | Não.
-Nós podemos definir os requisitos ao início de cada ciclo? | Sim.
+Os requisitos são fáceis de entender e definir? | Não
+Nós mudamos os requisitos com bastante frequência? | Sim
+Nós podemos definir os requisitos ao início de cada ciclo? | Não
 Os requisitos estão indicando um sistema complexo para se construir? | Sim.
 
-Conclusão: Em termos de requisitos, temos o indicativo para o RAD e Desenvolvimento Evolutivo.
+Conclusão: Em termos de requisitos, destaca-se o modelo espiral, OpenUp, Safe e ScrumXP.
 
 ### 3.1.2 Equipe de Desenvolvimento
 <center>
 
-![Gupta](assets/gupta_equipe_desenvolvimento.png)
+![Gupta](../../assets/gupta2.png)
 
-Figura 4 - Modelo Gupta para equipe de desenvolvimento (fonte: Gupta, 2019)
+Figura 2 - Modelo Gupta para equipe de desenvolvimento (fonte: Gupta, 2019)
 
 </center>
 
 Pergunta | Nosso contexto
 -------- | --------------
 Pouca experiência em projetos similares? | Sim.
-Pouco conhecimento de domínio (novato na tecnologia)? | Não.
+Pouco conhecimento de domínio (novato na tecnologia)? | Sim.
 Pouca experiência com as ferramentas que serão usadas? | Sim.
-Disponibilidade para treinamento, se necessário | Sim. 
+Disponibilidade para treinamento, se necessário | Não.
 
-Conclusão: Em termos de equipe de desenvolvimento, temos o indicativo para o Spiral e o RAD.
+Conclusão: Em termos de equipe de desenvolvimento, destaca-se o modelo espiral.
 
 ### 3.1.3 Usuários
 
 <center>
 
-![Gupta](assets/gupta_usuario.png)
+![Gupta](../../assets/gupta3.png)
 
-Figura 5 - Modelo Gupta para usuários (fonte: Gupta, 2019)
+Figura 3 - Modelo Gupta para usuários (fonte: Gupta, 2019)
 
 </center>
 
 Pergunta | Nosso contexto 
 -------- | -------------- 
 Usuário está envolvido em todas as fases? | Sim. 
-Participação limitada do usuário? | Não.
+Participação limitada do usuário? | Sim.
 Usuário não tem experiência anterior em participação em projetos similares? | Não.
 Usuário são especialistas no domínio do problema? | Sim.
 
-Conclusão: Em termos de usuário, temos o indicativo para o RAD e Protótipo
+Conclusão: Em termos de usuário, destaca-se o modelo RAD.
 
 ### 3.1.4 Tipo de Projeto e Risco Associado
 
 <center>
 
-![Gupta](assets/gupta_projeto_risco.png)
+![Gupta](../../assets/gupta4.png)
 
-Figura 6 - Modelo Gupta para tipo de projeto e risco associado (fonte: Gupta, 2019)
+Figura 4 - Modelo Gupta para tipo de projeto e risco associado (fonte: Gupta, 2019)
 
 </center>
 
@@ -82,40 +82,41 @@ O financiamento está estável para o projeto? | Sim.
 Requisitos de alta confiabilidade? | Não.
 Cronograma do projeto é apertado? | Sim.
 Uso de componentes reutilizáveis? | Sim.
-Os recursos (Tempo, dinheiro, pessoas etc) estão escassos? | Sim.   
+Os recursos (Tempo, dinheiro, pessoas etc) estão escassos? | Não.   
 
-Conclusão: Em termos de Tipo de Projeto e Risco Associado, temos o indicativo para o Protótipo e RAD
+Conclusão: Em termos de Tipo de Projeto e Risco Associado, destaca-se o RAD.
 
 ### 3.1.5 Escolha do Processo de Desenvolvimento de Software
 
 <center>
 
-![RAD](assets/rapid_application_development.png)
+![RAD](../../assets/xp.png)
 
-Figura 7 - Procedimento do RAD (fonte: MARSICANO, 2023)
+Figura 5 - Ciclo XP
 
 </center>
 
-Considerando o foco principal no nosso usuário, a pouca experiência dos membros da equipe e o risco associado, além do cronograma da disciplina, entendemos que devemos utilizar uma abordagem híbrida, com uma abordagem dirigida a plano, com o método cascata, na fase de requisitos e com as fases seguintes, utilizando o método ágil de desenvolvimento RAD (Rapid Application Development) (SWEBOK, p. 170).
+Considerando o foco principal no nosso usuário, a pouca experiência dos membros da equipe e o risco associado, além do cronograma da disciplina, entendemos que devemos utilizar uma abordagem híbrida, com uma abordagem dirigida a plano, com o método ScrumXP, na fase de requisitos e com as fases seguintes, utilizando o método ágil de desenvolvimento XP (Extremme Programming).
 
 ## 3.2 Ferramentas
 
 Para a execução dessa metodologia, escolheu-se as seguintes Ferramentas de organização e controle da equipe:
 
 - **Gerenciamento de tarefas**: GitHub Projects
-- **Comunicação: WhatsApp e Microsoft Teams**
+- **Comunicação:** WhatsApp, Discord (Reunião de Equipe), Google Meet (Reunião com Cliente)
 - **Versionamento**: GitHub
 - **Interface de Desenvolvimento**: VSCode
-- **Desenvolvimento de ideias e *frameworks* da disciplina**: Mural
+- **Desenvolvimento de ideias e *frameworks* da disciplina**: Miro
 - **Prototipação**: Figma
 
 | Ferramenta | Finalidade |
 | :-: | :-: | 
 | ![Github](./assets/logo_github.png){width="25%"} |  Versionamento e Gerenciamento de tarefas |
-| ![Microsoft Teams](./assets/logo-microsoft-teams.png){width="25%"} | Comunicação |
+| ![Google Meet](./assets/logo-microsoft-teams.png){width="25%"} | Comunicação |
+| ![Discord](./assets/logo-microsoft-teams.png){width="25%"} | Comunicação |
 | ![WhatsApp](./assets/whats_app.png){width="25%"} | Comunicação |
 | ![Visual Studio Code](./assets/vscode.png){width="20%"} | Interface de Desenvolvimento |
-| ![Mural](./assets/mural.png){width="25%"} | Desenvolvimento de ideias e *frameworks* da disciplina |
+| ![Miro](./assets/mural.png){width="25%"} | Desenvolvimento de ideias e *frameworks* da disciplina |
 | ![Figma](./assets/figmaLogo.png){width="25%"} | Prototipação |
 
 ## 3.3 Processos e Procedimentos
@@ -124,15 +125,15 @@ Para a execução dessa metodologia, escolheu-se as seguintes Ferramentas de org
 
 <center>
 
-![ER](assets/er_facetas_ireb.png)
+![ER](../../assets/facetas_engenharia.png)
 
 Figura 8 - Faceta da engenharia de requisitos (fonte: MARSICANO, 2023)
 
 </center>
 
-Com base nas Facetas do Processo de ER (IREB, 2022), foi definido que é um processo de ER orientado a produto, visto que: 
+Com base nas Facetas do Processo de ER (IREB, 2022), foi definido que é um processo de ER participativo, visto que: 
 
-1. Alvo é o mercado; 
+1. Alvo é um Cliente Específico; 
 2. O propósito é exploratório; 
 3. Tempo é interativo.
 
