@@ -139,16 +139,16 @@ Figura 9 - Atividades da ER (fonte: MARSICANO, 2023).
 
 Para isso, a equipe irá incluir o processo ER na metodologia de desenvolvimento XP da seguinte maneira:
 
-Atividade | Método | Ferramenta | Entrega
---------- | ------ | ---------- | -------
-Elicitação e Descoberta | Entrevista com o Cliente e Brainstorming | Google Meet, Lean Inception | Documento de Requisitos Funcionais e Não Funcionais
-Análise e Consenso | Brainstorming SWOT | Jira | História de Usuários
-Declaração | Critétios de Aceitação | GitHub | Épicos, Tasks, Prazos, MVP
-Representação | Figma | GitHub | Protótipo de Alta Fidelidade
-Implementação | Pair Programming | VsCode, Git | Código Fonte
-Verificação e Validação | Teste de Aceitação, Teste de Software | GitHub, JUnit, PyTest | Relatório de Testes e Validações
-Organização e Atualização | Plano de Iteraçãol com mudanças do cliente, Integração CI/CD | GitHub | Pipeline CI/CD
-Usabilidade | Análise Heurística | Dashboard | Relatórios de Usabilidade
+Atividade | Método | Ferramenta | Entrega | Fase da aplicação
+--------- | ------ | ---------- | ------- | -----------------|
+Elicitação e Descoberta | Entrevista com o Cliente e Brainstorming | Google Meet, Lean Inception | Documento de Requisitos Funcionais e Não Funcionais | Aplicada na fase de Planejamento
+Análise e Consenso | Brainstorming SWOT | Jira | História de Usuários | Aplicada na fase de Planejamento
+Declaração | Critétios de Aceitação | GitHub | Épicos, Tasks, Prazos, MVP | Aplicada na fase de Projeto
+Representação | Figma | GitHub | Protótipo de Alta Fidelidade |  Aplicada na fase de Projeto
+Implementação | Pair Programming | VsCode, Git | Código Fonte |  Aplicada na fase de Codificação
+Verificação e Validação | Teste de Aceitação, Teste de Software | GitHub, JUnit, PyTest | Relatório de Testes e Validações dos Requisistos |  Aplicada na fase de Testes
+Organização e Atualização | Backlog SAFe  | Jira | Relatório do Backlog da semana |  Aplicada na fase de Planejamento
+Usabilidade | Análise Heurística | Dashboard | Relatórios de Usabilidade | Aplicada na fase de Testes
 
 
 
