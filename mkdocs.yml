@@ -26,3 +26,5 @@ nav:
   - Apresentações:
     - Missão 1 | Apresentação: sections/apresentacao/apresentacao1.md
     - Missão 1 | Video de Apresentação: sections/apresentacao/video.md
+  - Políticas:
+    - GSC: sections/politicas/GCS/GCS.md
