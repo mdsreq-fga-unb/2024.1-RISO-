@@ -25,9 +25,23 @@ Ciclo 10 | Bateria de Funcionalidades | 01/07/23 | 07/07/23
 ## 2.3	Matriz de Comunicação
 Descrição | Área/Envolvidos | Periodicidade | Produtos Gerados
 --------- | ----------------- | ----------- | ----------------
-Acompanhamento das atividades em progresso | Equipe do Projeto | semanal | Relatorio de situação do projeto
-Acompanhamento de Ciclo | Equipe do Projeto e Monitor | Semanal | Ata da Reunião, Relação de Feedbacks sobre as entregas do produto
+Acompanhamento das atividades em progresso | Equipe do Projeto | Semanal | Relatorio de Situação do Projeto
+Acompanhamento de Ciclo | Equipe do Projeto e Monitor | Semanal | Ata da Reunião, Relação de Feedbacks sobre as Entregas do Produto
 Comunicar a situação do projeto | Equipe do Projeto e Professor | Mensalmente | Artefatos solicitados, Relação de Feedbacks do Professor
+
+### 2.3.1   Relatório de Situação do Projeto
+
+### 2.3.2   Ata de Reunião
+Deve conter informações concernentes aos seguintes tópicos:
+
+- Data e Horário da Reunião
+- Participantes da Reunião
+- Assuntos tratados na Reunião
+- Decisões e Prazos tomados
+- Próxima Reunião: Data, Horário e Assuntos a serem tratados
+
+### 2.3.3   Relação de Feedbacks sobre as Entregas do Produto
+Feedbacks serão enviados pelo monitor à equipe de desenvolvimento em mensagens de voz ou texto, via aplicativo de mensagens.
 
 ## 2.4	Gerenciamento de Riscos
 A análise e gerenciamento de riscos referem-se à identificação dos possíveis pontos que podem representar riscos para o projeto. Precisam ser acompanhados, a cada acompanhamento das fases, se referindo assim, ao projeto como um todo e não apenas ao produto.
