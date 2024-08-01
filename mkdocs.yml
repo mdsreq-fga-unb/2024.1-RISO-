@@ -23,6 +23,11 @@ nav:
     - Processo de Desenvolvimento de Software: sections/visaoProduto/processo_desenv/processo_desenv.md
     - Referência Bibliográfica: sections/visaoProduto/referencia_bibliografica.md
     - Histórico de Versão: sections/visaoProduto/historico_versao.md
+  - Ciclos:
+    - Planejamento Geral dos Ciclos: sections/ciclos/planejamento.md
+    - Ciclo 1: sections/ciclos/ciclo1.md
+    - Ciclo 2: sections/ciclos/ciclo2.md
+    - Ciclo 3: sections/ciclos/ciclo3.md
   - Entregas:
     - Unidade 1:
       - Missão 1 | Apresentação: sections/apresentacao/apresentacao1.md
