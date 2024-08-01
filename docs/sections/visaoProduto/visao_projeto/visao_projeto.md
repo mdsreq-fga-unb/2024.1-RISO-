@@ -2,25 +2,24 @@
 ## 2.1	Organização do Projeto
 Papel | Atribuições | Responsável | Participantes
 ----- | ----------- | ----------- | -------------
-Pessoa Desenvolvedora | Codificar o produto, realizar refatoração, testar, configurar, versionar, evoluir, integrar, documentar, ata das reuniões, estratégia de código | Lucas | Jesus Gabriel,Daniel Rodriguel, João Pedro, Marco Tulio, Joyce
-Líder do Time | Delegar tarefas, duração da Ciclo, organização das atividades, one-to-one com os membros, estratégia de produto | Daniel | Lucas
+Pessoa Desenvolvedora | Codificar o produto, realizar refatoração, testar, configurar, versionar, evoluir, integrar, documentar, ata das reuniões, estratégia de código | Daniel Rodrigues | Jesus Gabriel, João Pedro, Marco Tulio, Joyce, Lucas Antunes
+Líder do Time | Delegar tarefas, duração da Ciclo, organização das atividades, one-to-one com os membros, estratégia de produto | Marco Tulio | Daniel Rodrigues
 Pessoa Engenheira de Requisitos | Descobrir, elicitar, analisar, consensuar, declarar, representar, organizar e atualizar requisitos | Marco Tulio | Lucas,Daniel,Joyce
-Cliente | Fornecer insumos para requisitos, fornecer feedbacks sobre os produtos, priorizar requisitos | Joyce | Arthur
+Cliente | Fornecer insumos para requisitos, fornecer feedbacks sobre os produtos, priorizar requisitos | Lucas Antunes | Arthur Bennet
 Monitor | Verificar requisitos, fornecer feedbacks sobre o processo de ER, auxiliar em dúvidas da equipe acerca da disciplina de requisitos, articular os interesses do professor | João Pedro | Pedro Henrique
 
 ## 2.2	Planejamento das Fases do Projeto
 Ciclo | Produto (Entrega) | Data Início | Data Fim
 ---- | ----------------- | ----------- | --------
-Ciclo 1 | Requisitos descobertos, elicitados, analisados e consensuados | 22/04/24 | 29/04/24
-Ciclo 2 | Requisitos validados, verificados e declarados | 30/04/24 | 12/05/24
-Ciclo 3 | Requisitos organizados e atualizados, escopo definido do MVP e Funcionalidades Incrementais  | 13/05/24 | 19/05/24
-Ciclo 4 | US01 e US02 | 20/05/24 | 26/05/24
-Ciclo 5 | US03 e US06 | 27/05/23 | 12/06/23
-Ciclo 6 | US04 e US07 | 03/06/23 | 09/06/23
-Ciclo 7 | US05 e US08 | 10/06/23 | 16/06/23
-Ciclo 8 | US09 e US10 | 17/06/23 | 23/06/23
-Ciclo 9 | US11 e Testes | 24/06/23 | 30/06/23
-Ciclo 10 | Testes e Revisão | 01/07/23 | 07/07/23
+Ciclo 1 | Requisitos descobertos, elicitados, analisados e consensuados | 10/07/24 | 17/07/24
+Ciclo 2 | Requisitos validados, verificados e declarados | 17/07/24 | 24/07/24
+Ciclo 3 | Requisitos organizados e atualizados, escopo definido do MVP e Funcionalidades Incrementais  | 24/07/24 | 31/07/24
+Ciclo 4 | US01 e US02 | 31/07/24 | 07/08/24
+Ciclo 5 | US03 e US06 | 07/08/23 | 14/08/23
+Ciclo 6 | US04 e US07 | 14/08/23 | 21/08/23
+Ciclo 7 | US05 e US08 | 21/08/23 | 28/08/23
+Ciclo 8 | US09 e US10 | 28/08/23 | 04/09/23
+Ciclo 9 | US11 e Revisão | 04/09/23 | 11/09/23
 
 ## 2.3	Matriz de Comunicação
 Descrição | Área/Envolvidos | Periodicidade | Produtos Gerados
