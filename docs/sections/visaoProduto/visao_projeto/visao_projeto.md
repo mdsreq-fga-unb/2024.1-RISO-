@@ -14,13 +14,13 @@ Ciclo | Produto (Entrega) | Data Início | Data Fim
 Ciclo 1 | Requisitos descobertos, elicitados, analisados e consensuados | 22/04/24 | 29/04/24
 Ciclo 2 | Requisitos validados, verificados e declarados | 30/04/24 | 12/05/24
 Ciclo 3 | Requisitos organizados e atualizados, escopo definido do MVP e Funcionalidades Incrementais  | 13/05/24 | 19/05/24
-Ciclo 4 | Bateria de Funcionalidades | 20/05/24 | 26/05/24
-Ciclo 5 | Bateria de Funcionalidades | 27/05/23 | 12/06/23
-Ciclo 6 | Bateria de Funcionalidades | 03/06/23 | 09/06/23
-Ciclo 7 | Bateria de Funcionalidades | 10/06/23 | 16/06/23
-Ciclo 8 | Bateria de Funcionalidades | 17/06/23 | 23/06/23
-Ciclo 9 | Bateria de Funcionalidades | 24/06/23 | 30/06/23
-Ciclo 10 | Bateria de Funcionalidades | 01/07/23 | 07/07/23
+Ciclo 4 | US01 e US02 | 20/05/24 | 26/05/24
+Ciclo 5 | US03 e US06 | 27/05/23 | 12/06/23
+Ciclo 6 | US04 e US07 | 03/06/23 | 09/06/23
+Ciclo 7 | US05 e US08 | 10/06/23 | 16/06/23
+Ciclo 8 | US09 e US10 | 17/06/23 | 23/06/23
+Ciclo 9 | US11 e Testes | 24/06/23 | 30/06/23
+Ciclo 10 | Testes e Revisão | 01/07/23 | 07/07/23
 
 ## 2.3	Matriz de Comunicação
 Descrição | Área/Envolvidos | Periodicidade | Produtos Gerados
@@ -28,20 +28,6 @@ Descrição | Área/Envolvidos | Periodicidade | Produtos Gerados
 Acompanhamento das atividades em progresso | Equipe do Projeto | Semanal | Relatorio de Situação do Projeto
 Acompanhamento de Ciclo | Equipe do Projeto e Monitor | Semanal | Ata da Reunião, Relação de Feedbacks sobre as Entregas do Produto
 Comunicar a situação do projeto | Equipe do Projeto e Professor | Mensalmente | Artefatos solicitados, Relação de Feedbacks do Professor
-
-### 2.3.1   Relatório de Situação do Projeto
-
-### 2.3.2   Ata de Reunião
-Deve conter informações concernentes aos seguintes tópicos:
-
-- Data e Horário da Reunião
-- Participantes da Reunião
-- Assuntos tratados na Reunião
-- Decisões e Prazos tomados
-- Próxima Reunião: Data, Horário e Assuntos a serem tratados
-
-### 2.3.3   Relação de Feedbacks sobre as Entregas do Produto
-Feedbacks serão enviados pelo monitor à equipe de desenvolvimento em mensagens de voz ou texto, via aplicativo de mensagens.
 
 ## 2.4	Gerenciamento de Riscos
 A análise e gerenciamento de riscos referem-se à identificação dos possíveis pontos que podem representar riscos para o projeto. Precisam ser acompanhados, a cada acompanhamento das fases, se referindo assim, ao projeto como um todo e não apenas ao produto.
