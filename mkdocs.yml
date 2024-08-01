@@ -21,6 +21,7 @@ nav:
     - Visão Geral do Produto: sections/visaoProduto/visao_produto/visao_produto.md
     - Visão Geral do Projeto: sections/visaoProduto/visao_projeto/visao_projeto.md
     - Processo de Desenvolvimento de Software: sections/visaoProduto/processo_desenv/processo_desenv.md
+    - Lições Aprendidas: sections/visaoProduto/licoesAprendidas/licoesAprendidas.md
     - Referência Bibliográfica: sections/visaoProduto/referencia_bibliografica.md
     - Histórico de Versão: sections/visaoProduto/historico_versao.md
   - Ciclos:
