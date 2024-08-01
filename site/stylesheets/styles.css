@@ -6,11 +6,6 @@
     background-image: linear-gradient(to bottom, #05215a, #2c7c29);
 }
 
-
-.md-search__form {
-    background-color: #c8c8c8;
-}
-
 .md-footer {
     background-color: #05215a;
 }
@@ -41,24 +36,6 @@ th {
     justify-content: space-around;
 }
 
-.pessoa {
-    padding-bottom: 1rem;
-}
-
-.photo-border {
-    border-radius: 25px;
-    width: 12em;
-    height: 12em;
-    overflow: hidden;
-    transition: all 0.3s;
-    margin-bottom: 1rem;
-    box-shadow: 0 0 5px #2c7c29;
-    border-style: solid;
-    border-width: 3px;
-    border-color: #2c7c29;
-    z-index: 3;
-    transition: opacity 0.5s !important;
-}
 
 .photo-border:hover {
     opacity: 0.6;
@@ -120,13 +97,6 @@ th {
 
 .link-title:hover {
     opacity: 0.6;
-}
-
-.video-container {
-    background-color: #2c7c29;
-    padding: 2px;
-    border-radius: 4px;
-    box-shadow: 0 0 10px #2c7c29;
 }
 
 .release-video {

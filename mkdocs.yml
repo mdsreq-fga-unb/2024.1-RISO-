@@ -27,5 +27,9 @@ nav:
     - Unidade 1:
       - Missão 1 | Apresentação: sections/apresentacao/apresentacao1.md
       - Missão 1 | Video de Apresentação: sections/apresentacao/video.md
+    - Unidade 2:
+      - Missão 2 | Backlog: sections/apresentacao/apresentacao2.md
+
   - Políticas:
     - GSC: sections/politicas/GCS/GCS.md
+    
