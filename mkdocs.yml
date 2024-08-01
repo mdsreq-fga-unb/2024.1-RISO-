@@ -30,7 +30,12 @@ nav:
     - Ciclo 3: sections/ciclos/ciclo3.md
   - Entregas:
     - Unidade 1:
-      - Missão 1 | Apresentação: sections/apresentacao/apresentacao1.md
-      - Missão 1 | Video de Apresentação: sections/apresentacao/video.md
+      - Missão 1 | Apresentação: sections/entregas/unidade1/apresentacao1.md
+      - Missão 1 | Video de Apresentação: sections/entregas/unidade1/video.md
+    - Unidade 2:
+      - Missão 2 | Backlog: sections/entregas/unidade2/apresentacao2.md
+      - Missão 2 | Video de Apresentação: sections/entregas/unidade2/video.md
+
   - Políticas:
     - GSC: sections/politicas/GCS/GCS.md
+    
