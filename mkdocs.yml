@@ -23,8 +23,9 @@ nav:
     - Processo de Desenvolvimento de Software: sections/visaoProduto/processo_desenv/processo_desenv.md
     - Referência Bibliográfica: sections/visaoProduto/referencia_bibliografica.md
     - Histórico de Versão: sections/visaoProduto/historico_versao.md
-  - Apresentações:
-    - Missão 1 | Apresentação: sections/apresentacao/apresentacao1.md
-    - Missão 1 | Video de Apresentação: sections/apresentacao/video.md
+  - Entregas:
+    - Unidade 1:
+      - Missão 1 | Apresentação: sections/apresentacao/apresentacao1.md
+      - Missão 1 | Video de Apresentação: sections/apresentacao/video.md
   - Políticas:
     - GSC: sections/politicas/GCS/GCS.md

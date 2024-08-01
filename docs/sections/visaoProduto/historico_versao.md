@@ -9,3 +9,4 @@ Data | Versão | Descrição | Autor | Revisores
 17/04/24 | 0.5 | Atualização do Cronograma do Projeto | Daniel Rodrigues | Joyce Dionizio
 26/04/24 | 0.6 | Atualização da tabela de atividades| Daniel Rodrigues e Jésus Gabriel| Lucas Antunes e Joyce Dionizio
 31/04/24 | 0.7 | Atualização da visão do projeto e do processo de desenvolvimento | Daniel Rodrigues | Marco Tulio
+31/07/24 | 0.8 | Atualização dos Riscos do Projeto | Daniel Rodrigues | Marco Tulio
