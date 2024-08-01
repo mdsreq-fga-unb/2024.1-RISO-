@@ -1,4 +1,4 @@
-# Introdução 
+## Introdução 
 RISO é um software projetado para medir a satisfação dos clientes em uma loja específica, analisando suas expressões faciais por meio de tecnologias de visão computacional. Este documento de backlog visa apresentar:
 
 - Histórias de Usuário (USs)
@@ -36,4 +36,9 @@ RISO é um software projetado para medir a satisfação dos clientes em uma loja
 | [EP03]: Gerenciamento de Unidade/Empresa | US04       | Adicionar Colaboradores                                                                   |
 | [EP03]: Gerenciamento de Unidade/Empresa | US03       | Adicionar Colaboradores                                                                   |
 | [EP04]: Gerenciamento de Conta           | US01       | Cadastrar e Logar na Conta                                                                |
-| [EP04]: Gerenciamento de Conta           | US02       | Cadastrar Empresa-Unidade                                                                 |
+| [EP04]: Gerenciamento de Conta           | US02       | Cadastrar Empresa-Unidade   
+
+## Histórico de Revisão:
+Data | Versão | Descrição | Autor | Revisores 
+---- | ------ | --------- | ----- | ---------
+31/07/24 | 1.0 | Criação do documento | Marco Tulio, Joao Pedro | Daniel Rodrigues
