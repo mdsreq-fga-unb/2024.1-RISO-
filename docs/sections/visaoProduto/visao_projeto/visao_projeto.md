@@ -14,12 +14,12 @@ Ciclo | Produto (Entrega) | Data Início | Data Fim
 Ciclo 1 | Requisitos descobertos, elicitados, analisados e consensuados | 10/07/24 | 17/07/24
 Ciclo 2 | Requisitos validados, verificados e declarados | 17/07/24 | 24/07/24
 Ciclo 3 | Requisitos organizados e atualizados, escopo definido do MVP e Funcionalidades Incrementais  | 24/07/24 | 31/07/24
-Ciclo 4 | US01 e US02 | 31/07/24 | 07/08/24
-Ciclo 5 | US03 e US06 | 07/08/23 | 14/08/23
-Ciclo 6 | US04 e US07 | 14/08/23 | 21/08/23
-Ciclo 7 | US05 e US08 | 21/08/23 | 28/08/23
-Ciclo 8 | US09 e US10 | 28/08/23 | 04/09/23
-Ciclo 9 | US11 e Revisão | 04/09/23 | 11/09/23
+Ciclo 4 | Reestruturação da Equipe | 31/07/24 | 07/08/24
+Ciclo 5 | US01, US02 e US03 | 07/08/23 | 14/08/23
+Ciclo 6 | US06, US04 e US07 | 14/08/23 | 21/08/23
+Ciclo 7 | US05, US08 e US09 | 21/08/23 | 28/08/23
+Ciclo 8 | US10 e US11 | 28/08/23 | 04/09/23
+Ciclo 9 | Testes e Revisão | 04/09/23 | 11/09/23
 
 ## 2.3	Matriz de Comunicação
 Descrição | Área/Envolvidos | Periodicidade | Produtos Gerados
