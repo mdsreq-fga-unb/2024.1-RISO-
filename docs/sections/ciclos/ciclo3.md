@@ -42,11 +42,11 @@ _Nenhuma Atividade em Débito_
 - **Responsáveis:** Daniel Rodrigues, Jésus Gabriel;
 - **Link da Issue -GitHub- relacionada:** [Issue #12 - RISo](https://github.com/mdsreq-fga-unb/2024.1-RISO-/issues/12)
 
-#### AT02C03 - Início da Produção da US02
+#### AT03C03 - Início da Produção da US02
 - **Responsáveis:** Lucas Antunes, João Paulo, João Pedro;
 - **Link da Issue -GitHub- relacionada:** [Issue #13 - RISo](https://github.com/mdsreq-fga-unb/2024.1-RISO-/issues/13)
 
-#### AT01C03 - Inserir a Ata da Reunião do Ciclo 3
+#### AT04C03 - Inserir a Ata da Reunião do Ciclo 3
 - **Responsáveis:** Daniel Rodrigues;
 - **Link da Issue -GitHub- relacionada:** [Issue #27 - RISo](https://github.com/mdsreq-fga-unb/2024.1-RISO-/issues/27)
 
