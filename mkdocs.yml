@@ -36,7 +36,9 @@ nav:
     - Unidade 2:
       - Missão 2 | Backlog: sections/entregas/unidade2/apresentacao2.md
       - Missão 2 | Video de Apresentação: sections/entregas/unidade2/video.md
-
+    - Unidade 3:
+      - Missão 3 | PPB: sections/entregas/unidade3/pbb.md
+      - Missão 3 | USM: sections/entregas/unidade3/usm.md
   - Políticas:
     - GSC: sections/politicas/GCS/GCS.md
     
