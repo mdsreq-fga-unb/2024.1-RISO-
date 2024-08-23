@@ -16,4 +16,11 @@ Além dessas abordagens, exploramos diversas técnicas e atividades de Engenhari
 
 Enfrentamos alguns desafios ao longo dessa unidade. A readaptação após uma greve gerou desmotivação para a continuidade do projeto, e tivemos dificuldades para marcar reuniões com nosso cliente Arthur Bennet devido às suas viagens. Para superar esses obstáculos, estabelecemos comunicação por mensagens e realizamos validações constantes por meio de documentos e escrita das funcionalidades no GitHub. Além disso, aprendemos a documentar todas as reuniões com atas, conforme feedback do professor George, e desenvolvemos a habilidade de definir um MVP de forma eficiente.
 
+## 4.3. Unidade 3
+
+Na Unidade 3, nosso foco foi aprimorar a compreensão sobre as práticas de gestão e priorização de tarefas no desenvolvimento de software. Iniciamos explorando a construção e manutenção do backlog, que é essencial para o gerenciamento eficaz de qualquer projeto. Aprendemos a organizar e priorizar as tarefas utilizando métodos estruturados, como o Product Backlog Building (PBB) e o User Story Mapping (USM), que nos permitiram garantir que os itens mais relevantes fossem abordados primeiro.
+
+A prática de backlog foi complementada por sessões de planning, cujo já aplicávamos, onde refinamos e ajustamos as tarefas de acordo com as necessidades do projeto. Essa etapa foi crucial para assegurar que todos os membros da equipe estivessem alinhados quanto às prioridades e responsabilidades. Além disso, as sessões de review nos proporcionaram uma visão crítica do trabalho realizado, permitindo identificar melhorias e realizar ajustes contínuos.
+
+Durante essa unidade, compreendemos a importância de uma gestão de backlog bem estruturada para o sucesso do projeto. A utilização do método PBB nos ajudou a mapear claramente as expectativas dos stakeholders e a derivar features e histórias de usuário que refletissem essas expectativas. Com o método USM, conseguimos visualizar a jornada do usuário e priorizar as funcionalidades que gerassem maior valor.
 
