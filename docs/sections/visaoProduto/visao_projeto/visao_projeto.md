@@ -14,12 +14,12 @@ Ciclo | Produto (Entrega) | Data Início | Data Fim
 Ciclo 1 | Requisitos descobertos, elicitados, analisados e consensuados | 10/07/24 | 17/07/24
 Ciclo 2 | Requisitos validados, verificados e declarados | 17/07/24 | 24/07/24
 Ciclo 3 | Requisitos organizados e atualizados, escopo definido do MVP e Funcionalidades Incrementais  | 24/07/24 | 31/07/24
-Ciclo 4 | US01 e US02 | 31/07/24 | 07/08/24
-Ciclo 5 | US03 e US06 | 07/08/23 | 14/08/23
-Ciclo 6 | US04 e US07 | 14/08/23 | 21/08/23
-Ciclo 7 | US05 e US08 | 21/08/23 | 28/08/23
-Ciclo 8 | US09 e US10 | 28/08/23 | 04/09/23
-Ciclo 9 | US11 e Revisão | 04/09/23 | 11/09/23
+Ciclo 4 | Reestruturação da Equipe | 31/07/24 | 07/08/24
+Ciclo 5 | US01, US02 e US03 | 07/08/23 | 14/08/23
+Ciclo 6 | US06, US04 e US07 | 14/08/23 | 21/08/23
+Ciclo 7 | US05, US08 e US09 | 21/08/23 | 28/08/23
+Ciclo 8 | US10 e US11 | 28/08/23 | 04/09/23
+Ciclo 9 | Testes e Revisão | 04/09/23 | 11/09/23
 
 ## 2.3	Matriz de Comunicação
 Descrição | Área/Envolvidos | Periodicidade | Produtos Gerados
@@ -78,6 +78,7 @@ Ciclo | Tipo de Risco | Probabilidade | Impacto | Grau do Risco - Prioridade | C
 Ciclo 1 | Risco de Projeto | Muito Baixa | Catastrófrico | Risco Moderado | Após a greve de docentes, todo o cronograma foi redefinido
 Ciclo 2 | Risco de Projeto | Média | Pqueno | Risco Pequeno | Alocação de mais responsáveis em certas atribuições 
 Ciclo 2 | Risco de Projeto | Baixa | Grande | Risco Alto | Adoção de outros meios de comunicação com o Cliente
+Ciclo 4 | Risco de Projeto | Alta | Moderado | Risco Alto | Promover 1 intervalo de descanso, sem atividade durante 1 ciclo para a motivação do time
 
 ## 2.5	Critérios de Replanejamento
 Os critérios de replanejamento referem-se à identificação dos pontos que, caso ocorram, causarão um replanejamento do projeto. Precisam ser acompanhados a cada Ciclo, referindo-se assim, ao projeto como um todo e não apenas ao produto.
@@ -149,3 +150,5 @@ Ciclo 2 | C10 | Redistribuição dos membros nas atividades para suprir os membr
 Ciclo 2 | C09 | Exposição das Pautas debatidas na reunião em forma de ata para os membros ausentes | Acesso à todo o conteúdo perdido para os membros ausentes
 Ciclo 2 | C01 | Debitamento da atividade atrasada para o ciclo seguinte e adição de um responsável auxiliar | Conclusão da Atividade no prazo
 Ciclo 2 | C11 | Motivação de uma maior comunicação pelo WhatsApp entre os membros | Maior comunicação e engajamento do time com o projeto
+Ciclo 4 | C11 | Interrupção das atividades do ciclo | Maior energia e motivação para recomeçar as atividades
+Ciclo 4 | C01 | Redistribuição das US do projeto para compensar a paralisação do ciclo anterior | Entrega das funcionalidades dentro do prazo
