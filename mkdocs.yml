@@ -43,6 +43,7 @@ nav:
     - Unidade 3:
       - Missão 3 | PPB: sections/entregas/unidade3/pbb.md
       - Missão 3 | USM: sections/entregas/unidade3/usm.md
+      - Missão 4 | VeriVal-PBB- CalorieExplorer : sections/entregas/unidade3/VeriVal-PBB-CalorieExplorer.md
   - Backlog do Produto:
     - Funcionalidades: sections/historiasUsuarios/US.md
   - Políticas:
