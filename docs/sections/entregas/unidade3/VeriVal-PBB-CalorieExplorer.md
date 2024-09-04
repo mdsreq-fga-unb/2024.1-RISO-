@@ -1,6 +1,9 @@
 # Verificação e Validação - PBB do Projeto Calorie Explorer
 
-Para a fase de verificação, foi utilizado a metodologia de Checklist
+# 1. Verificação
+A verificação do PBB (Product Backlog Building) para o projeto Calorie Explorer foi conduzida utilizando um checklist para avaliar se todos os elementos fundamentais do Canvas PBB foram atendidos. Entre os pontos verificados, constatou-se que o Canvas PBB está devidamente identificado com o produto, e os problemas e expectativas do cliente foram corretamente listados. Também foram criadas personas, e as ações associadas a essas personas foram mapeadas, incluindo o que fazem atualmente e o que desejam fazer com o sistema. As funcionalidades foram definidas com base nas ações das personas, identificando os problemas que cada funcionalidade resolve e os benefícios que trazem.
+
+No entanto, durante a verificação, foram observadas algumas inconsistências: o PBI "Fazer atualizações e melhorias" não segue corretamente o modelo ARO, apresentando ausência do objeto, e alguns PBIs foram organizados sem seguir a prioridade estabelecida. Além disso, as histórias de usuário, que deveriam ser derivadas diretamente dos PBIs, não seguiram o modelo de escrita proposto, o que gerou inconsistências na forma como as histórias foram elaboradas em relação aos PBIs originais.
 
 Pergunta | Check | Comentários
 -------- | ----- | ----------
@@ -18,7 +21,10 @@ Foram criadas as histórias de usuário usando o PBI, personas e benefícios | N
 As histórias de usuários possuem critérios de aceitação | SIM | -- 
 Os PBIs estão organizados verticalmente pelo valor de prioridade | NÃO | As US's foram montadas e receberam o seus códicos sem considerar a ordem de prioridade estabelecido nos PBIs.
 
-Para a validação, também utilizamos o checklist, porém aqui avaliamos a qualidade de cada um dos itens desenvolvidos.
+## 2. Validação
+A validação do PBB envolveu uma análise detalhada da qualidade e coerência de cada item desenvolvido, comparando-os com o contexto do estudo de caso HealthNet. Os problemas e expectativas identificados foram considerados apropriados e relevantes, assim como as personas e suas atividades. As funcionalidades criadas foram bem associadas às personas e apresentaram um nível adequado de granularidade. No entanto, foi identificado que, em alguns casos, os benefícios descritos para as funcionalidades não eram suficientemente específicos, abrangendo vantagens que poderiam se aplicar a múltiplas funcionalidades, o que comprometeu a clareza.
+
+Adicionalmente, observou-se que as User Stories não estavam alinhadas ao modelo padrão de escrita, que envolve a estrutura "Eu, como [persona], posso [ação], para [valor de negócio]". Além disso, os critérios de aceitação, embora relevantes, foram redigidos de maneira inadequada, apresentando a visão das personas como executoras dos critérios, o que dificulta a compreensão das condições necessárias para o funcionamento da User Story. A reformulação dos critérios para um formato mais imparcial e padronizado é necessária para melhorar a qualidade das validações.
 
 Pergunta | Check | Comentários
 -------- | ----- | ----------
@@ -36,3 +42,9 @@ Os PBIs foram escritos com o mesmo modelo (Estão padronizados) | SIM | --
 As USs estão estruturadas no formato: "Eu, como [persona], posso [ação], para [valor de negócio]" | NÃO | Nenhuma das User Story seguem o modelo de escrita.
 Os critérios de aceitação estão coerentes com a US a qual estão associados | SIM | -- 
 Os critérios de aceitação informam apenas as condições para a US funcionar | NÃO | Os critérios de aceitação foram escritos como se as personas realizassem os critérios. Deverá ser feito pensado em qualquer usuário.
+
+
+## Histórico de Versão:
+Data | Versão | Descrição | Autor | Revisores 
+---- | ------ | --------- | ----- | ---------
+04/09/24 | 1.0 | Criação do documento | Daniel Rodrigues | Jésus Gabriel

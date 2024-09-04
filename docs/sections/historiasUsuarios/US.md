@@ -56,7 +56,7 @@ F06 | EP04 |	Autenticação e Cadastro de Conta
 Para a produção do sistema RISo, foram identificadas 11 User Stories, que descrevem as funcionalidades a serem desenvolvidas do ponto de vista dos usuários.
 
 Nº | Título | História de Usuário
--- | ------ | --------- 
+-- | ------ | -------------------
 US01 | Cadastrar e Logar na Conta | Eu como usuário, devo ser capaz de me cadastrar e logar na plataforma, para que eu possa utilizar das funções do software e ter a segurança de meus dados.
 US02 | Cadastrar Empresa-Unidade | Eu como usuário, devo ser capaz de registrar uma nova Unidade/Empresa, para que os dados obtidos pelo sistema RISO seja acessada apenas pelos associados à esta Unidade/Empresa.
 US03 | Adicionar Colaboradores | Eu como Administrador da Unidade/Empresa, devo ser capaz de adicionar colaboradores a partir de um código aleatório gerado no ato da criação da Unidade/Empresa, para que mais pessoas possam acompanhar os dados obtido pelo sistema RISO.
@@ -68,6 +68,38 @@ US08 | Visualizar filtro de gráfico de sorrisos por dia, semana e mês | Eu com
 US09 | Visualizar gráfico de média de sorrisos por pessoa por dia, semana e mês | Eu como usuário e usuário administrador, devo ser capaz de visualizar a quantidade média de sorrisos por pessoa filtrada por dia, semana ou mês, para que eu possa consultar os dados facilmente de forma clara e de forma mais clara.
 US10 | Visualizar dados de taxas gerais de risos | Eu como usuário e usuário administrador, devo ser capaz de visualizar uma taxa em porcentagem que exibe a quantidade de pessoas capturadas para o levantamentos dos dados no dia e quantas dessas riram, para que eu obtenha dados aprofundados da taxa de sorrisos.
 US11 | Integrar em uma câmera única no Caixa | O Sistema, deve ser capaz de capturar e realizar o reconhecimento de sorrisos com uma câmera especializada do cliente, para que o sistema RISO seja devidamente aplicado ao contexto do cliente.
+
+Para definir suas prioridades, foi considerado a frequência de uso da US e seu valor de negócio. Ao final é feito o somatório dos dois critérios para se obter a prioridade total: **Prioridade = (Frequência de Uso) + (Valor de Negócio)**.
+
+User Story | Frequência de Uso | Valor de Negócio | TOTAL
+---------- | ----------------- | ---------------- | -----
+US01 | 4 | 3 | 7
+US02 | 1 | 2 | 3
+US03 | 4 | 3 | 7
+US04 | 2 | 1 | 3
+US05 | 2 | 2 | 4
+US06 | 5 | 3 | 8
+US07 | 5 | 3 | 8
+US08 | 4 | 3 | 7
+US09 | 4 | 4 | 7
+US10 | 3 | 2 | 5
+US11 | 5 | 3 | 8
+
+Sendo assim, as US's em sua ordem de prioridade é:
+
+Código da US | Prioridade Total
+------------ | ----------------
+US06 | 8
+US07 | 8
+US11 | 8
+US01 | 7
+US03 | 7
+US08 | 7
+US09 | 7
+US10 | 5
+US05 | 4
+US02 | 3
+US04 | 3
 
 Com base nos Épicos já categorizados, o agrupamento das User Stories em Features, mantendo-as nos respectivos Épicos, ficou da seguinte forma:
 
