@@ -30,6 +30,9 @@ nav:
     - Ciclo 2: sections/ciclos/ciclo2.md
     - Ciclo 3: sections/ciclos/ciclo3.md
     - Ciclo 4: sections/ciclos/ciclo4.md
+    - Ciclo 5: sections/ciclos/ciclo5.md
+    - Ciclo 6: sections/ciclos/ciclo6.md
+    - Ciclo 7: sections/ciclos/ciclo7.md
   - Entregas:
     - Unidade 1:
       - Missão 1 | Apresentação: sections/entregas/unidade1/apresentacao1.md
@@ -40,6 +43,8 @@ nav:
     - Unidade 3:
       - Missão 3 | PPB: sections/entregas/unidade3/pbb.md
       - Missão 3 | USM: sections/entregas/unidade3/usm.md
+  - Backlog do Produto:
+    - Funcionalidades: sections/historiasUsuarios/US.md
   - Políticas:
     - GSC: sections/politicas/GCS/GCS.md
     

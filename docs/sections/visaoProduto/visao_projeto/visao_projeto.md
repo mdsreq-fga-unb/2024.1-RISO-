@@ -45,7 +45,7 @@ Segundo Charette, existem três tipos de riscos de Software (PRESSMAN,2006):
 A análise dos riscos levará em consideração 2 variáveis:
 
 ### 2.4.1 Probabilidade
-A probabilidade indica 
+A probabilidade indica a chance de um risco se materializar no projeto. Quanto maior a probabilidade, maior a chance de o risco ocorrer, o que exige maior atenção e planejamento. Ao identificar e avaliar esses riscos, a equipe de projeto pode desenvolver estratégias para mitigar ou gerenciar os impactos potenciais, aumentando as chances de sucesso do projeto.
 
 Probabilidade | Intervalo | Peso 
 ------------- | --------- | ----
@@ -76,9 +76,12 @@ Através da equação _[(Probabilidade) x (Impacto)]_ é possível calcular a pr
 Ciclo | Tipo de Risco | Probabilidade | Impacto | Grau do Risco - Prioridade | Contramedida Tomada 
 ----- | ------------- | ------------- | ------- | -------------------------- | -------------------
 Ciclo 1 | Risco de Projeto | Muito Baixa | Catastrófrico | Risco Moderado | Após a greve de docentes, todo o cronograma foi redefinido
-Ciclo 2 | Risco de Projeto | Média | Pqueno | Risco Pequeno | Alocação de mais responsáveis em certas atribuições 
+Ciclo 2 | Risco de Projeto | Média | Pequeno | Risco Pequeno | Alocação de mais responsáveis em certas atribuições 
 Ciclo 2 | Risco de Projeto | Baixa | Grande | Risco Alto | Adoção de outros meios de comunicação com o Cliente
 Ciclo 4 | Risco de Projeto | Alta | Moderado | Risco Alto | Promover 1 intervalo de descanso, sem atividade durante 1 ciclo para a motivação do time
+Ciclo 5 | Risco de Projeto | Alta | Moderado | Risco Alto | A atividade foi estendida, e novos responsáveis foram alocados.
+Ciclo 6 | Risco de Projeto | Alta | Grande | Risco Alto | A atividade foi estendida, e novos responsáveis foram alocados.
+Ciclo 7 | Risco de Projeto | Alta | Grande | Risco Alto | A atividade foi estendida, e novos responsáveis foram alocados.
 
 ## 2.5	Critérios de Replanejamento
 Os critérios de replanejamento referem-se à identificação dos pontos que, caso ocorram, causarão um replanejamento do projeto. Precisam ser acompanhados a cada Ciclo, referindo-se assim, ao projeto como um todo e não apenas ao produto.
@@ -152,3 +155,16 @@ Ciclo 2 | C01 | Debitamento da atividade atrasada para o ciclo seguinte e adiç�
 Ciclo 2 | C11 | Motivação de uma maior comunicação pelo WhatsApp entre os membros | Maior comunicação e engajamento do time com o projeto
 Ciclo 4 | C11 | Interrupção das atividades do ciclo | Maior energia e motivação para recomeçar as atividades
 Ciclo 4 | C01 | Redistribuição das US do projeto para compensar a paralisação do ciclo anterior | Entrega das funcionalidades dentro do prazo
+Ciclo 5 | C11 | A atividade foi estendida, e novos responsáveis foram alocados. | Maior energia e motivação para continuar as atividades
+Ciclo 5 | C08 | A atividade foi estendida, e novos responsáveis foram alocados. | Atraso nas atividades devido a inexperiência de alguns membros sera resolvida
+Ciclo 6 | C11 | A atividade foi estendida, e novos responsáveis foram alocados. | Maior energia e motivação para continuar as atividades
+Ciclo 6 | C08 | A atividade foi estendida, e novos responsáveis foram alocados. | Atraso nas atividades devido a inexperiência de alguns membros sera resolvida
+Ciclo 7 | C11 | A atividade foi estendida, e novos responsáveis foram alocados. | Maior energia e motivação para continuar as atividades
+Ciclo 7 | C08 | A atividade foi estendida, e novos responsáveis foram alocados. | Atraso nas atividades devido a inexperiência de alguns membros sera resolvida
+
+## Histórico de Versão:
+Data | Versão | Descrição | Autor | Revisores 
+---- | ------ | --------- | ----- | ---------
+31/07/24 | 1.0 | Criação do documento | Daniel Rodrigues | Jésus Gabriel
+04/09/24 | 1.1 | Atualização do documento | Jésus Gabriel | Daniel Rodrigues
+

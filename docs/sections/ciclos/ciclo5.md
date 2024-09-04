@@ -1,10 +1,10 @@
-# Ciclo 4
+# Ciclo 5
 
 - **Data de Realização da Reunião:**
-07/08/24
+14/08/24
 
 - **Hora da Realização da Reunião:**
-10:00
+20:00
 
 ## Presentes na Reunião:
 - Jésus Gabriel;
@@ -19,22 +19,18 @@
 
 ## Revisão das Atividades do Ciclo:
 ### **Atividades Entregues:**
-- AT01C03 - Realização do Vídeo de Apresentação
-- AT04C03 - Inserir a Ata da Reunião do Ciclo 3
+
+- AT04C03 - Inserir a Ata da Reunião do Ciclo 4
 
 ### **Atividades em Débitos:**
 - AT02C03 - Início da Produção da US01
 - AT03C03 - Início da Produção da US02
+- AT01C04 - Início da Produção da US03
 
 ## Planejamento do Próximo Ciclo:
-**Duração do Ciclo:** 07/08/24 até 14/08/24
+**Duração do Ciclo:** 14/08/24 até 21/08/24
 
 ### **Atribuições:**
-<br>
-
-#### AT01C04 - Início da Produção da US03
-- **Responsáveis:** João Paulo, João Pedro;
-- **Link da Issue -GitHub- relacionada:** [Issue #14 - RISo](https://github.com/mdsreq-fga-unb/2024.1-RISO-/issues/14)
 <br>
 
 #### Débitos:
@@ -46,8 +42,12 @@
 - **Responsáveis:** Lucas Antunes, Marco Tulio;
 - **Link da Issue -GitHub- relacionada:** [Issue #13 - RISo](https://github.com/mdsreq-fga-unb/2024.1-RISO-/issues/13)
 
+#### AT01C04 - Início da Produção da US03
+- **Responsáveis:** João Paulo, João Pedro;
+- **Link da Issue -GitHub- relacionada:** [Issue #14 - RISo](https://github.com/mdsreq-fga-unb/2024.1-RISO-/issues/14)
+<br>
+
 ## Histórico de Versão:
 Data | Versão | Descrição | Autor | Revisores 
 ---- | ------ | --------- | ----- | ---------
-15/08/24 | 1.0 | Criação do documento | Daniel Rodrigues | Jésus Gabriel
-04/09/24 | 1.1 | Atualização do documento | Jésus Gabriel | Daniel Rodrigues
+04/09/24 | 1.0 | Criação do documento | Jésus Gabriel | Daniel Rodrigues

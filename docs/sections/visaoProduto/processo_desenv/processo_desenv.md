@@ -96,7 +96,7 @@ Figura 5 - Ciclo XP
 
 </center>
 
-Utilizando como base os resultados do framework Gupta, cujo considera baixo conhecimento da equipe, alta participação do cliente no projeto e riscos associados ao projeto, a equipe utilizará seguirá uma abordagem dirigida à plano, utilizando o método ágil XP (Extremme Programming).
+Utilizando como base os resultados do framework Gupta, cujo considera baixo conhecimento da equipe, alta participação do cliente no projeto e riscos associados ao projeto, a equipe utilizará seguirá a metodologia ágil utilizando o XP (Extremme Programming).
 
 ## 3.2 Ferramentas
 
@@ -146,13 +146,17 @@ Análise e Consenso | Brainstorming SWOT | Jira | História de Usuários | Aplic
 Declaração | Critétios de Aceitação | GitHub | Épicos, Tasks, Prazos, MVP | Aplicada na fase de Projeto
 Representação | Figma | GitHub | Protótipo de Alta Fidelidade |  Aplicada na fase de Projeto
 Implementação | Pair Programming | VsCode, Git | Código Fonte |  Aplicada na fase de Codificação
-Verificação e Validação | Teste de Aceitação, Teste de Software | GitHub, Jasmine, PyTest | Relatório de Testes e Validações dos Requisistos |  Aplicada na fase de Testes
+Verificação e Validação | Teste de Aceitação | GitHub, Jasmine, PyTest | Relatório de Testes e Validações dos Requisistos |  Aplicada na fase de Testes
 Organização e Atualização | Backlog SAFe  | Jira | Relatório do Backlog da semana |  Aplicada na fase de Planejamento
-Usabilidade | Análise Heurística | Dashboard | Relatórios de Usabilidade | Aplicada na fase de Testes
+
 
 
 
 ### 3.3.3 Estrutura Analítica do Projeto
+
+A Estrutura Analítica do Projeto (EAP) é uma ferramenta fundamental na gestão de projetos que tem como objetivo dividir o trabalho a ser realizado em partes menores e mais gerenciáveis. A EAP é estruturada de forma hierárquica, onde o projeto é decomposto em entregas, atividades e pacotes de trabalho, facilitando a organização, o planejamento e o controle de todas as etapas do projeto. Essa decomposição permite uma visão clara e detalhada de tudo o que precisa ser realizado, ajudando a identificar as tarefas necessárias, atribuir responsabilidades e monitorar o progresso, garantindo que todas as partes essenciais do projeto sejam consideradas.
+
+A EAP também desempenha um papel crucial na comunicação dentro da equipe, pois fornece um mapa visual do projeto que ajuda todos os envolvidos a entenderem o escopo e o fluxo de trabalho. Ela é a base para a estimativa de custos, recursos e tempo, além de ser essencial para o gerenciamento de riscos, pois permite identificar áreas críticas e antecipar possíveis problemas. Com uma EAP bem definida, é possível alinhar as expectativas das partes interessadas, melhorar a eficiência do gerenciamento do projeto e aumentar as chances de sucesso na entrega dos objetivos propostos.
 
 <center>
 
@@ -161,4 +165,25 @@ Figura 10 - Estrutura Analítica do Projeto
 
 </center>
 
-#
+#### 3.3.3.1. Planejamento:
+
+- Inclui a coleta de Requisitos, definição dos Parâmetros de Qualidade, escolha da Tecnologia, e o Orçamento e Custos com o cliente.
+#### 3.3.3.2. Design do site:
+
+- Envolve o Cadastro e a Criação de um site para rodar.
+#### 3.3.3.3. Desenvolvimento:
+
+- Foca na Programação da IA em Python, integração entre Front-end e Back-end, e a Programação de quantificação da satisfação.
+#### 3.3.3.4. Teste e Revisão:
+
+- Consiste na Revisão e otimização de código, Revisão do Documento, Teste da Inteligência Artificial e Teste do site.
+#### 3.3.3.5. Entrega:
+
+- Contempla a Manutenção do Servidor e Site.
+Cada fase é detalhada em atividades específicas, organizadas de forma hierárquica para facilitar o gerenciamento e execução do projeto.
+
+## Histórico de Versão:
+Data | Versão | Descrição | Autor | Revisores 
+---- | ------ | --------- | ----- | ---------
+31/07/24 | 1.0 | Criação do documento | Daniel Rodrigues | Jésus Gabriel, Marco Tulio
+04/09/24 | 1.1 | Atualização do documento | Jésus Gabriel | Daniel Rodrigues

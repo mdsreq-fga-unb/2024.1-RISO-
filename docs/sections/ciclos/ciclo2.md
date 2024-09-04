@@ -64,3 +64,4 @@ _Nenhuma Atividade foi entregue_
 Data | Versão | Descrição | Autor | Revisores 
 ---- | ------ | --------- | ----- | ---------
 31/07/24 | 1.0 | Criação do documento | Daniel Rodrigues | Jésus Gabriel, Marco Tulio
+04/09/24 | 1.1 | Atualização do documento | Jésus Gabriel | Daniel Rodrigues

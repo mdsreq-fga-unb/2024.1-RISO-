@@ -11,3 +11,7 @@
 > 5. MARSICANO, George. Slides: Introdução a Engenharia de Requisitos. 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/2833054/mod_folder/content/0/Unidade%201%20-%20Aula%20-%20Introducao%20a%20ER.pdf> 
 
 > 6. UNIVERSIDADE FEDERAL DE VIÇOSA. Resolução CONSU nº 7, de 10 de junho de 2021. Aprova a Política de Gestão de Riscos e Controles Internos – PGRC da Universidade Federal de Viçosa. Viçosa: UFV, 2021. Disponível em: <https://soc.ufv.br/wp-content/uploads/Resolucao-Consu-7-2021.pdf>.
+
+> KERZNER, Harold. Gestão de Projetos: As Melhores Práticas. 12ª ed. São Paulo: Elsevier, 2017.
+
+> PMI. Um Guia do Conjunto de Conhecimentos de Gerenciamento de Projetos (Guia PMBOK®). 6ª ed. Project Management Institute, 2017.
