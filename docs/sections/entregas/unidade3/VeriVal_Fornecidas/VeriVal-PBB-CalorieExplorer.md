@@ -7,6 +7,7 @@ No entanto, durante a verificação, foram observadas algumas inconsistências: 
 
 Pergunta | Check | Comentários
 -------- | ----- | ----------
+O Canvas PBB possui um Canvas | NÃO | Não há na documentação da equipe o acesso ao Canvas do PBB.
 O Canvas PBB possui a identificação do Produto | SIM | --
 Foram listados os problemas atuais do cliente |  SIM | --
 Foram listado as expectativas do cliente com o produto | SIM | --
@@ -15,7 +16,7 @@ Foram listadas as ações das personas (O que elas fazem hoje e o que elas desej
 Foram criadas as funcionalidades a partir das ações das personas | SIM | -- 
 Foram listadas os problemas em as funcionalidades que elas resolvem | SIM | -- 
 Foram listadas os benefícios que as funcionalidades trazem às personas | SIM | --
-Foram criados os PBIs das funcionalidades seguindo o modelo ARO ou descrição Textual | NÃO | O PBI "Fazer atualizações e melhorias" possui a ausência do Objeto no modelo ARO. O restante está seguindo o padrão.
+Foram criados os PBIs das funcionalidades seguindo o modelo ARO. | NÃO | O PBI "Fazer atualizações e melhorias" possui a ausência do Objeto no modelo ARO. O restante está seguindo o padrão.
 Os PBIs foram priorizados | SIM | -- 
 Foram criadas as histórias de usuário usando o PBI, personas e benefícios | NÃO | A escrita dos PBIs nas US's em comparação às PBIs isoladamente foram alteradas.
 As histórias de usuários possuem critérios de aceitação | SIM | -- 
