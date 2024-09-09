@@ -204,3 +204,8 @@ O Sistema, deve ser capaz de capturar e realizar o reconhecimento de sorrisos co
 - [ ] O reconhecimento de sorrisos identifica corretamente no hardware do cliente;
 - [ ] As US #17 e #18 não foram comprometidas por essa funcionalidade;
 - [ ] O reconhecimento possui 80% de precisão dentre 10 testes realizados com 6 Tentativas Sorrindo e 4 outras tentativas apresentando outra emoção no hardware do cliente.
+
+## Histórico de Revisão
+Data | Versão | Descrição | Autor | Revisores 
+---- | ------ | --------- | ----- | ---------
+08/09/24 | 1.0 | Atualizacao do documento | Daniel Rodrigues e Jésus Gabriel| Jésus Gabriel
