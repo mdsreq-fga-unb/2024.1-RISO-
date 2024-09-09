@@ -33,4 +33,5 @@ No embed abaixo está disponível todo o USM completo.
 ## Histórico de Revisão:
 Data | Versão | Descrição | Autor | Revisores 
 ---- | ------ | --------- | ----- | ---------
-23/08/24 | 1.0 | Criação do documento | Joyce Dionizio | 
+23/08/24 | 1.0 | Criação do documento | Joyce Dionizio
+09/09/24 | 1.1 | Correção do USM | Jésus Gabriel | Daniel Rodrigues

@@ -973,3 +973,4 @@ Data | Versão | Descrição | Autor | Revisores
 ---- | ------ | --------- | ----- | ---------
 31/07/24 | 1.0 | Criação do documento | Daniel Rodrigues | Joyce Dionizio
 08/09/24 | 1.1 | Atualizacao do documento | Daniel Rodrigues | Jésus Gabriel
+09/09/24 | 1.2 | Atualizacao do BDD | Daniel Rodrigues | Jésus Gabriel
