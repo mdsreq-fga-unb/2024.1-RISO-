@@ -48,6 +48,7 @@ nav:
         - Missão 4 | USM - Verificação e Validação à CalorieExplorer: sections/entregas/unidade3/VeriVal_Fornecidas/VeriVal-USM-CalorieExplorer.md
   - Backlog do Produto:
     - Funcionalidades: sections/historiasUsuarios/US.md
+    - DoR e DoR: sections/historiasUsuarios/DoD_DoR.md
   - Políticas:
     - GSC: sections/politicas/GCS/GCS.md
     
