@@ -35,8 +35,9 @@ Implementar um sistema de avaliação de satisfação do cliente na sorveteria, 
 
 ## 1.5 Tecnologias a Serem Utilizadas
 
-- Python
-- HTML
-- CSS
+- JavaScript
+- React.js
 - Node.js
-- MySQL
+- MongoDB
+- Express
+- Mongoose
