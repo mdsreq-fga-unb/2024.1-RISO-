@@ -46,6 +46,8 @@ nav:
       - Verificação e Validação Fornecidas:
         - Missão 4 | PBB - Verificação e Validação à CalorieExplorer: sections/entregas/unidade3/VeriVal_Fornecidas/VeriVal-PBB-CalorieExplorer.md
         - Missão 4 | USM - Verificação e Validação à CalorieExplorer: sections/entregas/unidade3/VeriVal_Fornecidas/VeriVal-USM-CalorieExplorer.md
+    - Unidade 4:  
+       - Missão 4 | Video de Apresentação: sections/entregas/unidade4/videoMissao4.md
   - Backlog do Produto:
     - Funcionalidades: sections/historiasUsuarios/US.md
     - DoR e DoR: sections/historiasUsuarios/DoD_DoR.md
